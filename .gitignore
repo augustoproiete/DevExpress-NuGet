@@ -1,0 +1,10 @@
+#Ignore thumbnails created by Windows
+Thumbs.db
+
+#Ignore DevExpress Assemblies and Docs
+**/lib/**/*.dll
+**/lib/**/*.xml
+
+#Ignore generated NuGet packages
+**/nupkg/*.nupkg
+
