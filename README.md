@@ -14,6 +14,10 @@ NuGet Packages for the DevExpress .NET Components - [http://www.devexpress.com](
 If you too think that [DevExpress](http://www.devexpress.com) should provide us with official NuGet packages for their .NET components, send an e-mail to **<management@devexpress.com>**, or **[post a comment on their forum](https://www.devexpress.com/support/center/Question/Details/S139898)**.  
 
 
+### Disclaimer from DevExpress
+*Please note that according to DevExpress [EULA](https://www.devexpress.com/Support/EULAs/NetComponents.xml), every person working with DevExpress components should have a separate license. To properly register our components on your machine, use the DevExpress installer as described in the [How to activate my DevExpress license article](https://www.devexpress.com/Support/Center/Question/Details/KA18604). Working with DevExpress components using libraries got from NuGet without proper registration may result in licensing conflicts*.
+
+
 ## Packaging Strategy
 
 I've created one NuGet package specification for every single assembly included in the DevExpress .NET controls, which in turn can be used to generate a NuGet package.
