@@ -15,7 +15,7 @@ If you too think that [DevExpress](http://www.devexpress.com) should provide us 
 
 
 ### Disclaimer from DevExpress
-*Please note that according to DevExpress [EULA](https://www.devexpress.com/Support/EULAs/NetComponents.xml), every person working with DevExpress components should have a separate license. To properly register our components on your machine, use the DevExpress installer as described in the [How to activate my DevExpress license article](https://www.devexpress.com/Support/Center/Question/Details/KA18604). Working with DevExpress components using libraries got from NuGet without proper registration may result in licensing conflicts*.
+*Please note that according to DevExpress [EULA](https://www.devexpress.com/Support/EULAs/NetComponents.xml), every person working with DevExpress components should have a separate license. To properly register our components on your machine, use the DevExpress installer as described in the [How to activate my DevExpress license article](https://www.devexpress.com/Support/Center/Question/Details/KA18604). Working with DevExpress components using libraries got from NuGet without proper registration may result in licensing violation*.
 
 
 ## Packaging Strategy
