@@ -22,32 +22,32 @@ If you too think that [DevExpress](http://www.devexpress.com) should provide us 
 
 I've created one NuGet package specification for every single assembly included in the DevExpress .NET controls, which in turn can be used to generate a NuGet package.
 
-For example, the file `nuspec\Unofficial.DevExpress.Xpf.Ribbon.nuspec` is the corresponding NuGet specification for the assembly `DevExpress.Xpf.Ribbon.v14.1.dll`.
+For example, the file `nuspec\Unofficial.DevExpress.Xpf.Ribbon.nuspec` is the corresponding NuGet specification for the assembly `DevExpress.Xpf.Ribbon.v14.2.dll`.
 
 
 ### Dependencies between NuGet packages
 
 The dependencies between NuGet packages are created based on direct references to other DevExpress assemblies.
 
-For example, if the assembly `DevExpress.Xpf.Ribbon.v14.1.dll` directly references `DevExpress.Data.v14.1.dll`, `DevExpress.Mvvm.v14.1.dll` and `DevExpress.Xpf.Core.v14.1.dll`, the NuGet specification will declare a dependency to each of the three NuGet packages corresponding to these assemblies:
+For example, if the assembly `DevExpress.Xpf.Ribbon.v14.2.dll` directly references `DevExpress.Data.v14.2.dll`, `DevExpress.Mvvm.v14.2.dll` and `DevExpress.Xpf.Core.v14.2.dll`, the NuGet specification will declare a dependency to each of the three NuGet packages corresponding to these assemblies:
 
     <?xml version="1.0"?>
     <package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
       <metadata>
         <id>Unofficial.DevExpress.Xpf.Ribbon</id>
-        <version>14.1.9.0</version>
+        <version>14.2.3.0</version>
         <!-- ... (omitted for brevity) -->
         <dependencies>
           <group targetFramework=".NETFramework4.0">
-            <dependency id="Unofficial.DevExpress.Xpf.Core" version="14.1.9.0" />
-            <dependency id="Unofficial.DevExpress.Data" version="14.1.9.0" />
-            <dependency id="Unofficial.DevExpress.Mvvm" version="14.1.9.0" />
+            <dependency id="Unofficial.DevExpress.Xpf.Core" version="14.2.3.0" />
+            <dependency id="Unofficial.DevExpress.Data" version="14.2.3.0" />
+            <dependency id="Unofficial.DevExpress.Mvvm" version="14.2.3.0" />
           </group>
        </dependencies>
       </metadata>
       <files>
-        <file src="lib\DevExpress.Xpf.Ribbon.v14.1.dll" target="lib\net40" />
-        <file src="lib\DevExpress.Xpf.Ribbon.v14.1.xml" target="lib\net40" />
+        <file src="lib\DevExpress.Xpf.Ribbon.v14.2.dll" target="lib\net40" />
+        <file src="lib\DevExpress.Xpf.Ribbon.v14.2.xml" target="lib\net40" />
       </files>
     </package>
 
@@ -56,7 +56,7 @@ For example, if the assembly `DevExpress.Xpf.Ribbon.v14.1.dll` directly referenc
 
 - **src**
   - **lib**
-      - This is where you put the DevExpress assemblies before you generate the NuGet packages. You will typically copy the contents of the folder `C:\Program Files (x86)\DevExpress 14.1\Components\Bin\Framework` and paste it here, including sub-folders;
+      - This is where you put the DevExpress assemblies before you generate the NuGet packages. You will typically copy the contents of the folder `C:\Program Files (x86)\DevExpress 14.2\Components\Bin\Framework` and paste it here, including sub-folders;
   - **nupkg**
       - This is the output folder where the NuGet packages will be generated; 
   - **nuspec**
@@ -86,6 +86,9 @@ Please [report any issues](https://github.com/CaioProiete/DevExpress-NuGet/issue
 
 
 ## Release History
+
+ * **v14.2.3.0** - 2015-02-08
+   - Contains NuGet specs for the DevExpress Components 14.2.3 released on December 04, 2014
 
  * **v14.1.9.0** - 2015-02-08
    - Contains NuGet specs for the DevExpress Components 14.1.9 released on January 20, 2015

@@ -1,1 +1,1 @@
-DevExpress .NET Controls & Libraries v14.1.9 (v2014 vol 1.9 - Released on 20 Jan 2015)
+DevExpress .NET Controls & Libraries v14.2.3 (v2014 vol 2.3 - Released on 04 Dec 2014)
