@@ -35,13 +35,13 @@ For example, if the assembly `DevExpress.Xpf.Ribbon.v14.1.dll` directly referenc
     <package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
       <metadata>
         <id>Unofficial.DevExpress.Xpf.Ribbon</id>
-        <version>14.1.7.0</version>
+        <version>14.1.8.0</version>
         <!-- ... (omitted for brevity) -->
         <dependencies>
           <group targetFramework=".NETFramework4.0">
-            <dependency id="Unofficial.DevExpress.Xpf.Core" version="14.1.7.0" />
-            <dependency id="Unofficial.DevExpress.Data" version="14.1.7.0" />
-            <dependency id="Unofficial.DevExpress.Mvvm" version="14.1.7.0" />
+            <dependency id="Unofficial.DevExpress.Xpf.Core" version="14.1.8.0" />
+            <dependency id="Unofficial.DevExpress.Data" version="14.1.8.0" />
+            <dependency id="Unofficial.DevExpress.Mvvm" version="14.1.8.0" />
           </group>
        </dependencies>
       </metadata>
@@ -78,8 +78,6 @@ To generate all NuGet packages, just run the batch file `src\nuget-pack.cmd`, or
 
 - The language-specific assemblies for German, Spanish, Japanese, and Russian are currently not being included in any of the NuGet packages;
 
-- The script `nuget-pack.cmd` should be converted to a simpler Powershell script that enumerates the nuspec files and calls the `nuget.exe` utility, instead of having all the calls hard-coded in a batch file; 
-
 - I use a very specific set of components, which means that there are a number of NuGet packages that I have not extensively tested. You've been warned;
 
 - Instead of generating a NuGet package for every assembly, the script could analyze the dependency chain and build clusters when possible - I'm not sure if it is worth the effort, though. I'm interested in hearing your opinion.
@@ -88,6 +86,9 @@ Please [report any issues](https://github.com/CaioProiete/DevExpress-NuGet/issue
 
 
 ## Release History
+
+ * **v14.1.8.0** - 2015-02-08
+   - Contains NuGet specs for the DevExpress Components 14.1.8 released on November 06, 2014
 
  * **v14.1.7.0** - 2014-10-22
    - Contains NuGet specs for the DevExpress Components 14.1.7 released on September 24, 2014
