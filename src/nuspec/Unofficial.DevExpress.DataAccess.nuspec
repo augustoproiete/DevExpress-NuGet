@@ -2,21 +2,21 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
   <metadata>
     <id>Unofficial.DevExpress.DataAccess</id>
-    <version>14.1.8.0</version>
+    <version>14.1.9.0</version>
     <title>Unofficial.DevExpress.DataAccess</title>
     <authors>Developer Express Inc.</authors>
     <owners>Caio Proiete</owners>
     <licenseUrl>https://www.devexpress.com/Support/EULAs/NetComponents.xml</licenseUrl>
     <projectUrl>https://www.devexpress.com/Subscriptions/DXperience.xml</projectUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
-    <description>DevExpress.DataAccess.v14.1, Version=14.1.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</description>
+    <description>DevExpress.DataAccess.v14.1, Version=14.1.9.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</description>
     <summary>Unofficial.DevExpress.DataAccess NuGet package</summary>
     <copyright>Copyright (C) 2000-2014 Developer Express Inc.</copyright>
     <tags>unofficial devexpress dataaccess</tags>
     <dependencies>
       <group targetFramework=".NETFramework4.0">
-        <dependency id="Unofficial.DevExpress.Xpo" version="14.1.8.0" />
-        <dependency id="Unofficial.DevExpress.Data" version="14.1.8.0" />
+        <dependency id="Unofficial.DevExpress.Xpo" version="14.1.9.0" />
+        <dependency id="Unofficial.DevExpress.Data" version="14.1.9.0" />
       </group>
     </dependencies>
   </metadata>
