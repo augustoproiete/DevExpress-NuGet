@@ -54,7 +54,7 @@ For example, if the assembly `DevExpress.Xpf.Ribbon.v14.1.dll` directly referenc
 
 ## Folder Structure
 
-- **v14.1.7.0**
+- **src**
   - **lib**
       - This is where you put the DevExpress assemblies before you generate the NuGet packages. You will typically copy the contents of the folder `C:\Program Files (x86)\DevExpress 14.1\Components\Bin\Framework` and paste it here, including sub-folders;
   - **nupkg**
@@ -67,9 +67,9 @@ For example, if the assembly `DevExpress.Xpf.Ribbon.v14.1.dll` directly referenc
 
 ## How to generate the NuGet packages
 
-To generate all NuGet packages, just run the batch file `v14.1.7.0\nuget-pack.cmd`, or if you prefer to manually generate specific packages, just use the `nuget.exe` command line utility. For example:
+To generate all NuGet packages, just run the batch file `src\nuget-pack.cmd`, or if you prefer to manually generate specific packages, just use the `nuget.exe` command line utility. For example:
 
-    nuget.exe pack ".\v14.1.7.0\nuspec\Unofficial.DevExpress.Data.nuspec" -BasePath ".\v14.1.7.0" -OutputDirectory ".\v14.1.7.0\nupkg"
+    nuget.exe pack ".\src\nuspec\Unofficial.DevExpress.Data.nuspec" -BasePath ".\src" -OutputDirectory ".\src\nupkg"
 
 
 ## Known issues / Things to do
