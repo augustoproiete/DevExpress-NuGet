@@ -11,14 +11,14 @@
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <description>DevExpress.Xpf.Scheduler.v14.2.Design, Version=14.2.0.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</description>
     <summary>Unofficial.DevExpress.Xpf.Scheduler.Design NuGet package</summary>
-    <copyright>Copyright (C) 2000-2014 Developer Express Inc.</copyright>
+    <copyright>Copyright (C) 2000-2015 Developer Express Inc.</copyright>
     <tags>unofficial devexpress xpf scheduler design</tags>
     <dependencies>
       <group targetFramework=".NETFramework4.0">
-        <dependency id="Unofficial.DevExpress.Xpf.Core.Design" version="14.2.4.0" />
-        <dependency id="Unofficial.DevExpress.Xpf.Ribbon.Design" version="14.2.4.0" />
-        <dependency id="Unofficial.DevExpress.Xpf.Core" version="14.2.4.0" />
-        <dependency id="Unofficial.DevExpress.Xpf.Scheduler" version="14.2.4.0" />
+        <dependency id="Unofficial.DevExpress.Xpf.Core.Design" version="14.2.5.0" />
+        <dependency id="Unofficial.DevExpress.Xpf.Ribbon.Design" version="14.2.5.0" />
+        <dependency id="Unofficial.DevExpress.Xpf.Core" version="14.2.5.0" />
+        <dependency id="Unofficial.DevExpress.Xpf.Scheduler" version="14.2.5.0" />
       </group>
     </dependencies>
   </metadata>
