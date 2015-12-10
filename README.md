@@ -87,7 +87,10 @@ Please [report any issues](https://github.com/CaioProiete/DevExpress-NuGet/issue
 
 ## Release History
  * **v15.2.4.0** - 2015-12-09
-   - Contains NuGet specs for the DevExpress Components 15.2.4 released on December 02, 2015
+   - Contains NuGet specs for the DevExpress Components 15.2.4 released on December 09, 2015
+
+ * **v15.2.3.0** - 2015-12-09
+   - Contains NuGet specs for the DevExpress Components 15.2.3 released on December 02, 2015
 
  * **v15.1.8.0** - 2015-11-16
    - Contains NuGet specs for the DevExpress Components 15.1.8 released on November 12, 2015
