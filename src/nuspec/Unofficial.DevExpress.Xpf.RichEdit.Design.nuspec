@@ -11,15 +11,15 @@
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <description>DevExpress.Xpf.RichEdit.v15.2.Design, Version=15.2.0.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</description>
     <summary>Unofficial.DevExpress.Xpf.RichEdit.Design NuGet package</summary>
-    <copyright>Copyright (C) 2000-2015 Developer Express Inc.</copyright>
+    <copyright>Copyright (C) 2000-2016 Developer Express Inc.</copyright>
     <tags>unofficial devexpress xpf richedit design</tags>
     <dependencies>
       <group targetFramework=".NETFramework4.0">
-        <dependency id="Unofficial.DevExpress.Xpf.Core.Design" version="15.2.4.0" />
-        <dependency id="Unofficial.DevExpress.Xpf.Ribbon.Design" version="15.2.4.0" />
-        <dependency id="Unofficial.DevExpress.Xpf.RichEdit" version="15.2.4.0" />
-        <dependency id="Unofficial.DevExpress.Xpf.Core" version="15.2.4.0" />
-        <dependency id="Unofficial.DevExpress.Xpf.Docking" version="15.2.4.0" />
+        <dependency id="Unofficial.DevExpress.Xpf.Core.Design" version="15.2.5.0" />
+        <dependency id="Unofficial.DevExpress.Xpf.Ribbon.Design" version="15.2.5.0" />
+        <dependency id="Unofficial.DevExpress.Xpf.RichEdit" version="15.2.5.0" />
+        <dependency id="Unofficial.DevExpress.Xpf.Core" version="15.2.5.0" />
+        <dependency id="Unofficial.DevExpress.Xpf.Docking" version="15.2.5.0" />
       </group>
     </dependencies>
   </metadata>
