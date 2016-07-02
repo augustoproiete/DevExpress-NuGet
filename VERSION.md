@@ -1,1 +1,1 @@
-DevExpress .NET Controls & Libraries v15.2.10 (v2015 vol 2.10 - Released on 01 Jun 2016)
+DevExpress .NET Controls & Libraries v15.2.11 (v2015 vol 2.11 - Released on 22 Jun 2016)
