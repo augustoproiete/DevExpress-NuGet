@@ -15,11 +15,11 @@
     <tags>unofficial devexpress xpf scheduler design</tags>
     <dependencies>
       <group targetFramework=".NETFramework4.0">
-        <dependency id="Unofficial.DevExpress.Xpf.Core.Design" version="16.1.4.0" />
-        <dependency id="Unofficial.DevExpress.Xpf.Ribbon.Design" version="16.1.4.0" />
-        <dependency id="Unofficial.DevExpress.Xpf.Core" version="16.1.4.0" />
-        <dependency id="Unofficial.DevExpress.Xpf.Scheduler" version="16.1.4.0" />
-        <dependency id="Unofficial.DevExpress.XtraScheduler.Core" version="16.1.4.0" />
+        <dependency id="Unofficial.DevExpress.Xpf.Core.Design" version="16.1.5.0" />
+        <dependency id="Unofficial.DevExpress.Xpf.Ribbon.Design" version="16.1.5.0" />
+        <dependency id="Unofficial.DevExpress.Xpf.Core" version="16.1.5.0" />
+        <dependency id="Unofficial.DevExpress.Xpf.Scheduler" version="16.1.5.0" />
+        <dependency id="Unofficial.DevExpress.XtraScheduler.Core" version="16.1.5.0" />
       </group>
     </dependencies>
   </metadata>
