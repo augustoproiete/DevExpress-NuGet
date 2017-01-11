@@ -35,13 +35,13 @@ For example, if the assembly `DevExpress.Xpf.Ribbon.v16.1.dll` directly referenc
     <package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
       <metadata>
         <id>Unofficial.DevExpress.Xpf.Ribbon</id>
-        <version>16.1.8.0</version>
+        <version>16.2.3.0</version>
         <!-- ... (omitted for brevity) -->
         <dependencies>
           <group targetFramework=".NETFramework4.0">
-            <dependency id="Unofficial.DevExpress.Xpf.Core" version="16.1.8.0" />
-            <dependency id="Unofficial.DevExpress.Data" version="16.1.8.0" />
-            <dependency id="Unofficial.DevExpress.Mvvm" version="16.1.8.0" />
+            <dependency id="Unofficial.DevExpress.Xpf.Core" version="16.2.3.0" />
+            <dependency id="Unofficial.DevExpress.Data" version="16.2.3.0" />
+            <dependency id="Unofficial.DevExpress.Mvvm" version="16.2.3.0" />
           </group>
        </dependencies>
       </metadata>
@@ -86,6 +86,9 @@ Please [report any issues](https://github.com/CaioProiete/DevExpress-NuGet/issue
 
 
 ## Release History
+ * **v16.2.3.0** - 2017-01-11
+   - Contains NuGet specs for the DevExpress Components 16.2.3 released on December 14, 2016
+
  * **v16.1.8.0** - 2016-11-19
    - Contains NuGet specs for the DevExpress Components 16.1.8 released on November 16, 2016
 
@@ -168,7 +171,7 @@ Please [report any issues](https://github.com/CaioProiete/DevExpress-NuGet/issue
    - Contains NuGet specs for the DevExpress Components 14.1.7 released on September 24, 2014
 
 ## License   
-Copyright 2014-2016 Caio Proiete
+Copyright 2014-2017 Caio Proiete
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
@@ -184,4 +187,4 @@ limitations under the License.
 
 ---
 
-The DevExpress components and trademark are Copyright (C) 2000-2016 Developer Express Inc. and their end-user license agreement is available at [https://www.devexpress.com/Support/EULAs/NetComponents.xml](https://www.devexpress.com/Support/EULAs/NetComponents.xml).
+The DevExpress components and trademark are Copyright (C) 2000-2017 Developer Express Inc. and their end-user license agreement is available at [https://www.devexpress.com/Support/EULAs/NetComponents.xml](https://www.devexpress.com/Support/EULAs/NetComponents.xml).
