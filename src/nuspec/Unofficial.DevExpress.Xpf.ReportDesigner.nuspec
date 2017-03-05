@@ -34,8 +34,8 @@
         <dependency id="Unofficial.DevExpress.Xpf.Ribbon" version="16.2.4.0" />
         <dependency id="Unofficial.DevExpress.Xpf.Controls" version="16.2.4.0" />
         <dependency id="Unofficial.DevExpress.XtraGauges.Core" version="16.2.4.0" />
-        <dependency id="Unofficial.DevExpress.Sparkline.Core" version="16.2.4.0" />
         <dependency id="Unofficial.DevExpress.Charts.Core" version="16.2.4.0" />
+        <dependency id="Unofficial.DevExpress.Sparkline.Core" version="16.2.4.0" />
         <dependency id="Unofficial.DevExpress.Xpf.Grid.Core" version="16.2.4.0" />
         <dependency id="Unofficial.DevExpress.Xpf.Printing" version="16.2.4.0" />
         <dependency id="Unofficial.DevExpress.Xpf.Docking" version="16.2.4.0" />

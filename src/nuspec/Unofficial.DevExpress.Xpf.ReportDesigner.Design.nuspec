@@ -17,6 +17,7 @@
       <group targetFramework=".NETFramework4.0">
         <dependency id="Unofficial.DevExpress.Xpf.Core.Design" version="16.2.4.0" />
         <dependency id="Unofficial.DevExpress.Xpf.ReportDesigner" version="16.2.4.0" />
+        <dependency id="Unofficial.DevExpress.Xpf.Core" version="16.2.4.0" />
       </group>
     </dependencies>
   </metadata>

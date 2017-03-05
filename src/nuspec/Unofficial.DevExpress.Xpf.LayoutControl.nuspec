@@ -16,8 +16,8 @@
     <dependencies>
       <group targetFramework=".NETFramework4.0">
         <dependency id="Unofficial.DevExpress.Xpf.Core" version="16.2.4.0" />
-        <dependency id="Unofficial.DevExpress.Mvvm" version="16.2.4.0" />
         <dependency id="Unofficial.DevExpress.Data" version="16.2.4.0" />
+        <dependency id="Unofficial.DevExpress.Mvvm" version="16.2.4.0" />
       </group>
     </dependencies>
   </metadata>

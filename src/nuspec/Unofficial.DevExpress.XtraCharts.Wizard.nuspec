@@ -18,6 +18,7 @@
         <dependency id="Unofficial.DevExpress.XtraCharts" version="16.2.4.0" />
         <dependency id="Unofficial.DevExpress.Utils" version="16.2.4.0" />
         <dependency id="Unofficial.DevExpress.Data" version="16.2.4.0" />
+        <dependency id="Unofficial.DevExpress.Printing.Core" version="16.2.4.0" />
         <dependency id="Unofficial.DevExpress.XtraEditors" version="16.2.4.0" />
         <dependency id="Unofficial.DevExpress.Utils.UI" version="16.2.4.0" />
         <dependency id="Unofficial.DevExpress.XtraTreeList" version="16.2.4.0" />
@@ -26,7 +27,6 @@
         <dependency id="Unofficial.DevExpress.Charts.Core" version="16.2.4.0" />
         <dependency id="Unofficial.DevExpress.XtraGrid" version="16.2.4.0" />
         <dependency id="Unofficial.DevExpress.XtraBars" version="16.2.4.0" />
-        <dependency id="Unofficial.DevExpress.Printing.Core" version="16.2.4.0" />
         <dependency id="Unofficial.DevExpress.XtraNavBar" version="16.2.4.0" />
       </group>
     </dependencies>

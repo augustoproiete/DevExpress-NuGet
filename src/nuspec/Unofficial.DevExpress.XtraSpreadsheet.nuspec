@@ -27,13 +27,13 @@
         <dependency id="Unofficial.DevExpress.RichEdit.Core" version="16.2.4.0" />
         <dependency id="Unofficial.DevExpress.XtraGrid" version="16.2.4.0" />
         <dependency id="Unofficial.DevExpress.DataAccess" version="16.2.4.0" />
-        <dependency id="Unofficial.DevExpress.XtraPrinting" version="16.2.4.0" />
         <dependency id="Unofficial.DevExpress.Printing.Core" version="16.2.4.0" />
         <dependency id="Unofficial.DevExpress.XtraLayout" version="16.2.4.0" />
         <dependency id="Unofficial.DevExpress.XtraNavBar" version="16.2.4.0" />
         <dependency id="Unofficial.DevExpress.XtraCharts" version="16.2.4.0" />
         <dependency id="Unofficial.DevExpress.Charts.Core" version="16.2.4.0" />
         <dependency id="Unofficial.DevExpress.DataAccess.UI" version="16.2.4.0" />
+        <dependency id="Unofficial.DevExpress.XtraPrinting" version="16.2.4.0" />
       </group>
     </dependencies>
   </metadata>

@@ -19,10 +19,10 @@
         <dependency id="Unofficial.DevExpress.XtraEditors" version="16.2.4.0" />
         <dependency id="Unofficial.DevExpress.Data" version="16.2.4.0" />
         <dependency id="Unofficial.DevExpress.XtraScheduler.Core" version="16.2.4.0" />
-        <dependency id="Unofficial.DevExpress.XtraPrinting" version="16.2.4.0" />
         <dependency id="Unofficial.DevExpress.XtraBars" version="16.2.4.0" />
         <dependency id="Unofficial.DevExpress.XtraGrid" version="16.2.4.0" />
         <dependency id="Unofficial.DevExpress.Printing.Core" version="16.2.4.0" />
+        <dependency id="Unofficial.DevExpress.XtraPrinting" version="16.2.4.0" />
       </group>
     </dependencies>
   </metadata>
