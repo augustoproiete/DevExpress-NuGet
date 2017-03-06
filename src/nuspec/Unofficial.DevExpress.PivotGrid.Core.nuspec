@@ -2,21 +2,21 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
   <metadata>
     <id>Unofficial.DevExpress.PivotGrid.Core</id>
-    <version>16.2.4.0</version>
+    <version>16.2.5.0</version>
     <title>Unofficial.DevExpress.PivotGrid.Core</title>
     <authors>Developer Express Inc.</authors>
     <owners>Caio Proiete</owners>
     <licenseUrl>https://www.devexpress.com/Support/EULAs/NetComponents.xml</licenseUrl>
     <projectUrl>https://www.devexpress.com/Subscriptions/DXperience.xml</projectUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
-    <description>DevExpress.PivotGrid.v16.2.Core, Version=16.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</description>
+    <description>DevExpress.PivotGrid.v16.2.Core, Version=16.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</description>
     <summary>Unofficial.DevExpress.PivotGrid.Core NuGet package</summary>
     <copyright>Copyright (C) 2000-2017 Developer Express Inc.</copyright>
     <tags>unofficial devexpress pivotgrid core</tags>
     <dependencies>
       <group targetFramework=".NETFramework4.0">
-        <dependency id="Unofficial.DevExpress.Data" version="16.2.4.0" />
-        <dependency id="Unofficial.DevExpress.Printing.Core" version="16.2.4.0" />
+        <dependency id="Unofficial.DevExpress.Data" version="16.2.5.0" />
+        <dependency id="Unofficial.DevExpress.Printing.Core" version="16.2.5.0" />
       </group>
     </dependencies>
   </metadata>
