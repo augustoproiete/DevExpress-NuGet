@@ -2,26 +2,26 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
   <metadata>
     <id>Unofficial.DevExpress.Web.ASPxRichEdit</id>
-    <version>16.2.5.0</version>
+    <version>16.2.6.0</version>
     <title>Unofficial.DevExpress.Web.ASPxRichEdit</title>
     <authors>Developer Express Inc.</authors>
     <owners>Caio Proiete</owners>
     <licenseUrl>https://www.devexpress.com/Support/EULAs/NetComponents.xml</licenseUrl>
     <projectUrl>https://www.devexpress.com/Subscriptions/DXperience.xml</projectUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
-    <description>DevExpress.Web.ASPxRichEdit.v16.2, Version=16.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</description>
+    <description>DevExpress.Web.ASPxRichEdit.v16.2, Version=16.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</description>
     <summary>Unofficial.DevExpress.Web.ASPxRichEdit NuGet package</summary>
     <copyright>Copyright (C) 2000-2017 Developer Express Inc.</copyright>
     <tags>unofficial devexpress web aspxrichedit</tags>
     <dependencies>
       <group targetFramework=".NETFramework4.0">
-        <dependency id="Unofficial.DevExpress.RichEdit.Core" version="16.2.5.0" />
-        <dependency id="Unofficial.DevExpress.Data" version="16.2.5.0" />
-        <dependency id="Unofficial.DevExpress.Office.Core" version="16.2.5.0" />
-        <dependency id="Unofficial.DevExpress.Web" version="16.2.5.0" />
-        <dependency id="Unofficial.DevExpress.Web.ASPxSpellChecker" version="16.2.5.0" />
-        <dependency id="Unofficial.DevExpress.SpellChecker.Core" version="16.2.5.0" />
-        <dependency id="Unofficial.DevExpress.Printing.Core" version="16.2.5.0" />
+        <dependency id="Unofficial.DevExpress.RichEdit.Core" version="16.2.6.0" />
+        <dependency id="Unofficial.DevExpress.Data" version="16.2.6.0" />
+        <dependency id="Unofficial.DevExpress.Office.Core" version="16.2.6.0" />
+        <dependency id="Unofficial.DevExpress.Web" version="16.2.6.0" />
+        <dependency id="Unofficial.DevExpress.Web.ASPxSpellChecker" version="16.2.6.0" />
+        <dependency id="Unofficial.DevExpress.SpellChecker.Core" version="16.2.6.0" />
+        <dependency id="Unofficial.DevExpress.Printing.Core" version="16.2.6.0" />
       </group>
     </dependencies>
   </metadata>
