@@ -2,26 +2,26 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
   <metadata>
     <id>Unofficial.DevExpress.XtraCharts.Web</id>
-    <version>16.2.6.0</version>
+    <version>16.2.7.0</version>
     <title>Unofficial.DevExpress.XtraCharts.Web</title>
     <authors>Developer Express Inc.</authors>
     <owners>Caio Proiete</owners>
     <licenseUrl>https://www.devexpress.com/Support/EULAs/NetComponents.xml</licenseUrl>
     <projectUrl>https://www.devexpress.com/Subscriptions/DXperience.xml</projectUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
-    <description>DevExpress.XtraCharts.v16.2.Web, Version=16.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</description>
+    <description>DevExpress.XtraCharts.v16.2.Web, Version=16.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</description>
     <summary>Unofficial.DevExpress.XtraCharts.Web NuGet package</summary>
     <copyright>Copyright (C) 2000-2017 Developer Express Inc.</copyright>
     <tags>unofficial devexpress xtracharts web</tags>
     <dependencies>
       <group targetFramework=".NETFramework4.0">
-        <dependency id="Unofficial.DevExpress.XtraCharts" version="16.2.6.0" />
-        <dependency id="Unofficial.DevExpress.Web" version="16.2.6.0" />
-        <dependency id="Unofficial.DevExpress.Data" version="16.2.6.0" />
-        <dependency id="Unofficial.DevExpress.Charts.Core" version="16.2.6.0" />
-        <dependency id="Unofficial.DevExpress.Printing.Core" version="16.2.6.0" />
-        <dependency id="Unofficial.DevExpress.Web.Resources" version="16.2.6.0" />
-        <dependency id="Unofficial.DevExpress.Utils" version="16.2.6.0" />
+        <dependency id="Unofficial.DevExpress.XtraCharts" version="16.2.7.0" />
+        <dependency id="Unofficial.DevExpress.Web" version="16.2.7.0" />
+        <dependency id="Unofficial.DevExpress.Data" version="16.2.7.0" />
+        <dependency id="Unofficial.DevExpress.Charts.Core" version="16.2.7.0" />
+        <dependency id="Unofficial.DevExpress.Printing.Core" version="16.2.7.0" />
+        <dependency id="Unofficial.DevExpress.Web.Resources" version="16.2.7.0" />
+        <dependency id="Unofficial.DevExpress.Utils" version="16.2.7.0" />
       </group>
     </dependencies>
   </metadata>
