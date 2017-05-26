@@ -2,37 +2,37 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
   <metadata>
     <id>Unofficial.DevExpress.ExpressApp.Reports.Win</id>
-    <version>16.2.7.0</version>
+    <version>17.1.3.0</version>
     <title>Unofficial.DevExpress.ExpressApp.Reports.Win</title>
     <authors>Developer Express Inc.</authors>
     <owners>Caio Proiete</owners>
     <licenseUrl>https://www.devexpress.com/Support/EULAs/NetComponents.xml</licenseUrl>
     <projectUrl>https://www.devexpress.com/Subscriptions/DXperience.xml</projectUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
-    <description>DevExpress.ExpressApp.Reports.Win.v16.2, Version=16.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</description>
+    <description>DevExpress.ExpressApp.Reports.Win.v17.1, Version=17.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</description>
     <summary>Unofficial.DevExpress.ExpressApp.Reports.Win NuGet package</summary>
     <copyright>Copyright (C) 2000-2017 Developer Express Inc.</copyright>
     <tags>unofficial devexpress expressapp reports win</tags>
     <dependencies>
       <group targetFramework=".NETFramework4.0">
-        <dependency id="Unofficial.DevExpress.Utils" version="16.2.7.0" />
-        <dependency id="Unofficial.DevExpress.XtraReports.Extensions" version="16.2.7.0" />
-        <dependency id="Unofficial.DevExpress.ExpressApp.Reports" version="16.2.7.0" />
-        <dependency id="Unofficial.DevExpress.ExpressApp" version="16.2.7.0" />
-        <dependency id="Unofficial.DevExpress.XtraReports" version="16.2.7.0" />
-        <dependency id="Unofficial.DevExpress.XtraPrinting" version="16.2.7.0" />
-        <dependency id="Unofficial.DevExpress.Persistent.Base" version="16.2.7.0" />
-        <dependency id="Unofficial.DevExpress.Data" version="16.2.7.0" />
-        <dependency id="Unofficial.DevExpress.ExpressApp.Win" version="16.2.7.0" />
-        <dependency id="Unofficial.DevExpress.Printing.Core" version="16.2.7.0" />
-        <dependency id="Unofficial.DevExpress.XtraBars" version="16.2.7.0" />
-        <dependency id="Unofficial.DevExpress.XtraRichEdit" version="16.2.7.0" />
-        <dependency id="Unofficial.DevExpress.XtraEditors" version="16.2.7.0" />
+        <dependency id="Unofficial.DevExpress.Utils" version="17.1.3.0" />
+        <dependency id="Unofficial.DevExpress.XtraReports.Extensions" version="17.1.3.0" />
+        <dependency id="Unofficial.DevExpress.ExpressApp.Reports" version="17.1.3.0" />
+        <dependency id="Unofficial.DevExpress.ExpressApp" version="17.1.3.0" />
+        <dependency id="Unofficial.DevExpress.XtraReports" version="17.1.3.0" />
+        <dependency id="Unofficial.DevExpress.XtraPrinting" version="17.1.3.0" />
+        <dependency id="Unofficial.DevExpress.Persistent.Base" version="17.1.3.0" />
+        <dependency id="Unofficial.DevExpress.Data" version="17.1.3.0" />
+        <dependency id="Unofficial.DevExpress.ExpressApp.Win" version="17.1.3.0" />
+        <dependency id="Unofficial.DevExpress.Printing.Core" version="17.1.3.0" />
+        <dependency id="Unofficial.DevExpress.XtraBars" version="17.1.3.0" />
+        <dependency id="Unofficial.DevExpress.XtraRichEdit" version="17.1.3.0" />
+        <dependency id="Unofficial.DevExpress.XtraEditors" version="17.1.3.0" />
       </group>
     </dependencies>
   </metadata>
   <files>
-    <file src="lib\DevExpress.ExpressApp.Reports.Win.v16.2.dll" target="lib\net40" />
-    <file src="lib\DevExpress.ExpressApp.Reports.Win.v16.2.xml" target="lib\net40" />
+    <file src="lib\DevExpress.ExpressApp.Reports.Win.v17.1.dll" target="lib\net40" />
+    <file src="lib\DevExpress.ExpressApp.Reports.Win.v17.1.xml" target="lib\net40" />
   </files>
 </package>
