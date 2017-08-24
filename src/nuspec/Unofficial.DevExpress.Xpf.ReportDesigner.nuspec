@@ -16,12 +16,12 @@
     <dependencies>
       <group targetFramework=".NETFramework4.0">
         <dependency id="Unofficial.DevExpress.Xpf.Grid" version="17.1.5.0" />
+        <dependency id="Unofficial.DevExpress.Diagram.Core" version="17.1.5.0" />
         <dependency id="Unofficial.DevExpress.XtraCharts" version="17.1.5.0" />
         <dependency id="Unofficial.DevExpress.Xpf.Core" version="17.1.5.0" />
         <dependency id="Unofficial.DevExpress.XtraReports" version="17.1.5.0" />
         <dependency id="Unofficial.DevExpress.Data" version="17.1.5.0" />
         <dependency id="Unofficial.DevExpress.DataAccess" version="17.1.5.0" />
-        <dependency id="Unofficial.DevExpress.Diagram.Core" version="17.1.5.0" />
         <dependency id="Unofficial.DevExpress.Xpf.Diagram" version="17.1.5.0" />
         <dependency id="Unofficial.DevExpress.Xpf.PropertyGrid" version="17.1.5.0" />
         <dependency id="Unofficial.DevExpress.Xpf.DataAccess" version="17.1.5.0" />
@@ -35,9 +35,9 @@
         <dependency id="Unofficial.DevExpress.Xpf.Ribbon" version="17.1.5.0" />
         <dependency id="Unofficial.DevExpress.Xpf.Controls" version="17.1.5.0" />
         <dependency id="Unofficial.DevExpress.XtraGauges.Core" version="17.1.5.0" />
-        <dependency id="Unofficial.DevExpress.Charts.Core" version="17.1.5.0" />
         <dependency id="Unofficial.DevExpress.Xpf.Printing" version="17.1.5.0" />
         <dependency id="Unofficial.DevExpress.Sparkline.Core" version="17.1.5.0" />
+        <dependency id="Unofficial.DevExpress.Charts.Core" version="17.1.5.0" />
         <dependency id="Unofficial.DevExpress.Xpf.Docking" version="17.1.5.0" />
         <dependency id="Unofficial.DevExpress.Images" version="17.1.5.0" />
         <dependency id="Unofficial.DevExpress.Office.Core" version="17.1.5.0" />

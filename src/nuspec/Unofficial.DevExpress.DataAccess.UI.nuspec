@@ -19,13 +19,13 @@
         <dependency id="Unofficial.DevExpress.DataAccess" version="17.1.5.0" />
         <dependency id="Unofficial.DevExpress.Utils" version="17.1.5.0" />
         <dependency id="Unofficial.DevExpress.XtraEditors" version="17.1.5.0" />
-        <dependency id="Unofficial.DevExpress.RichEdit.Core" version="17.1.5.0" />
         <dependency id="Unofficial.DevExpress.XtraRichEdit" version="17.1.5.0" />
         <dependency id="Unofficial.DevExpress.Utils.UI" version="17.1.5.0" />
         <dependency id="Unofficial.DevExpress.Diagram.Core" version="17.1.5.0" />
         <dependency id="Unofficial.DevExpress.XtraDiagram" version="17.1.5.0" />
         <dependency id="Unofficial.DevExpress.XtraGrid" version="17.1.5.0" />
         <dependency id="Unofficial.DevExpress.XtraTreeList" version="17.1.5.0" />
+        <dependency id="Unofficial.DevExpress.RichEdit.Core" version="17.1.5.0" />
         <dependency id="Unofficial.DevExpress.XtraBars" version="17.1.5.0" />
         <dependency id="Unofficial.DevExpress.XtraLayout" version="17.1.5.0" />
         <dependency id="Unofficial.DevExpress.CodeParser" version="17.1.5.0" />
