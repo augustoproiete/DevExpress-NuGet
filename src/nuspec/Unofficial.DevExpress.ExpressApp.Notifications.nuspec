@@ -2,22 +2,22 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
   <metadata>
     <id>Unofficial.DevExpress.ExpressApp.Notifications</id>
-    <version>17.1.6.0</version>
+    <version>17.1.7.0</version>
     <title>Unofficial.DevExpress.ExpressApp.Notifications</title>
     <authors>Developer Express Inc.</authors>
     <owners>Caio Proiete</owners>
     <licenseUrl>https://www.devexpress.com/Support/EULAs/NetComponents.xml</licenseUrl>
     <projectUrl>https://www.devexpress.com/Subscriptions/DXperience.xml</projectUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
-    <description>DevExpress.ExpressApp.Notifications.v17.1, Version=17.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</description>
+    <description>DevExpress.ExpressApp.Notifications.v17.1, Version=17.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</description>
     <summary>Unofficial.DevExpress.ExpressApp.Notifications NuGet package</summary>
     <copyright>Copyright (C) 2000-2017 Developer Express Inc.</copyright>
     <tags>unofficial devexpress expressapp notifications</tags>
     <dependencies>
       <group targetFramework=".NETFramework4.0">
-        <dependency id="Unofficial.DevExpress.Persistent.Base" version="17.1.6.0" />
-        <dependency id="Unofficial.DevExpress.ExpressApp" version="17.1.6.0" />
-        <dependency id="Unofficial.DevExpress.Data" version="17.1.6.0" />
+        <dependency id="Unofficial.DevExpress.Persistent.Base" version="17.1.7.0" />
+        <dependency id="Unofficial.DevExpress.ExpressApp" version="17.1.7.0" />
+        <dependency id="Unofficial.DevExpress.Data" version="17.1.7.0" />
       </group>
     </dependencies>
   </metadata>
