@@ -2,14 +2,14 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
   <metadata>
     <id>Unofficial.DevExpress.Xpf.Themes.Office2013</id>
-    <version>17.1.5.0</version>
+    <version>17.1.6.0</version>
     <title>Unofficial.DevExpress.Xpf.Themes.Office2013</title>
     <authors>Developer Express Inc.</authors>
     <owners>Caio Proiete</owners>
     <licenseUrl>https://www.devexpress.com/Support/EULAs/NetComponents.xml</licenseUrl>
     <projectUrl>https://www.devexpress.com/Subscriptions/DXperience.xml</projectUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
-    <description>DevExpress.Xpf.Themes.Office2013.v17.1, Version=17.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</description>
+    <description>DevExpress.Xpf.Themes.Office2013.v17.1, Version=17.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</description>
     <summary>Unofficial.DevExpress.Xpf.Themes.Office2013 NuGet package</summary>
     <copyright>Copyright (C) 2000-2017 Developer Express Inc.</copyright>
     <tags>unofficial devexpress xpf themes office2013</tags>
