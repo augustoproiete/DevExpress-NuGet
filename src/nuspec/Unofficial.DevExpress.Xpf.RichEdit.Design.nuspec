@@ -15,11 +15,11 @@
     <tags>unofficial devexpress xpf richedit design</tags>
     <dependencies>
       <group targetFramework=".NETFramework4.0">
-        <dependency id="Unofficial.DevExpress.Xpf.Core.Design" version="17.1.8.0" />
-        <dependency id="Unofficial.DevExpress.Xpf.Ribbon.Design" version="17.1.8.0" />
-        <dependency id="Unofficial.DevExpress.Xpf.RichEdit" version="17.1.8.0" />
-        <dependency id="Unofficial.DevExpress.Xpf.Core" version="17.1.8.0" />
-        <dependency id="Unofficial.DevExpress.Xpf.Docking" version="17.1.8.0" />
+        <dependency id="Unofficial.DevExpress.Xpf.Core.Design" version="17.1.9.0" />
+        <dependency id="Unofficial.DevExpress.Xpf.Ribbon.Design" version="17.1.9.0" />
+        <dependency id="Unofficial.DevExpress.Xpf.RichEdit" version="17.1.9.0" />
+        <dependency id="Unofficial.DevExpress.Xpf.Core" version="17.1.9.0" />
+        <dependency id="Unofficial.DevExpress.Xpf.Docking" version="17.1.9.0" />
       </group>
     </dependencies>
   </metadata>
