@@ -1,1 +1,1 @@
-DevExpress .NET Controls & Libraries v17.2.3 (Released on 16 November 2017)
+DevExpress .NET Controls & Libraries v17.2.4 (Released on 13 December 2017)

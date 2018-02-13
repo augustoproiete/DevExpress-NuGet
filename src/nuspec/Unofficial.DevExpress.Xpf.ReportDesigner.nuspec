@@ -2,49 +2,49 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
   <metadata>
     <id>Unofficial.DevExpress.Xpf.ReportDesigner</id>
-    <version>17.2.3.0</version>
+    <version>17.2.4.0</version>
     <title>Unofficial.DevExpress.Xpf.ReportDesigner</title>
     <authors>Developer Express Inc.</authors>
     <owners>Caio Proiete</owners>
     <licenseUrl>https://www.devexpress.com/Support/EULAs/NetComponents.xml</licenseUrl>
     <projectUrl>https://www.devexpress.com/Subscriptions/DXperience.xml</projectUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
-    <description>DevExpress.Xpf.ReportDesigner.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</description>
+    <description>DevExpress.Xpf.ReportDesigner.v17.2, Version=17.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</description>
     <summary>Unofficial.DevExpress.Xpf.ReportDesigner NuGet package</summary>
     <copyright>Copyright (C) 2000-2018 Developer Express Inc.</copyright>
     <tags>unofficial devexpress xpf reportdesigner</tags>
     <dependencies>
       <group targetFramework=".NETFramework4.0">
-        <dependency id="Unofficial.DevExpress.Diagram.Core" version="17.2.3.0" />
-        <dependency id="Unofficial.DevExpress.Xpf.Grid" version="17.2.3.0" />
-        <dependency id="Unofficial.DevExpress.Xpf.Core" version="17.2.3.0" />
-        <dependency id="Unofficial.DevExpress.XtraCharts" version="17.2.3.0" />
-        <dependency id="Unofficial.DevExpress.Xpf.CodeView" version="17.2.3.0" />
-        <dependency id="Unofficial.DevExpress.Data" version="17.2.3.0" />
-        <dependency id="Unofficial.DevExpress.XtraReports" version="17.2.3.0" />
-        <dependency id="Unofficial.DevExpress.DataAccess" version="17.2.3.0" />
-        <dependency id="Unofficial.DevExpress.Xpf.Diagram" version="17.2.3.0" />
-        <dependency id="Unofficial.DevExpress.Xpf.DataAccess" version="17.2.3.0" />
-        <dependency id="Unofficial.DevExpress.Mvvm" version="17.2.3.0" />
-        <dependency id="Unofficial.DevExpress.Xpf.ExpressionEditor" version="17.2.3.0" />
-        <dependency id="Unofficial.DevExpress.Xpf.PropertyGrid" version="17.2.3.0" />
-        <dependency id="Unofficial.DevExpress.Printing.Core" version="17.2.3.0" />
-        <dependency id="Unofficial.DevExpress.PivotGrid.Core" version="17.2.3.0" />
-        <dependency id="Unofficial.DevExpress.Xpf.LayoutControl" version="17.2.3.0" />
-        <dependency id="Unofficial.DevExpress.Xpf.RichEdit" version="17.2.3.0" />
-        <dependency id="Unofficial.DevExpress.Xpf.PivotGrid" version="17.2.3.0" />
-        <dependency id="Unofficial.DevExpress.CodeParser" version="17.2.3.0" />
-        <dependency id="Unofficial.DevExpress.Xpf.Grid.Core" version="17.2.3.0" />
-        <dependency id="Unofficial.DevExpress.Xpf.Ribbon" version="17.2.3.0" />
-        <dependency id="Unofficial.DevExpress.Xpf.Controls" version="17.2.3.0" />
-        <dependency id="Unofficial.DevExpress.XtraGauges.Core" version="17.2.3.0" />
-        <dependency id="Unofficial.DevExpress.Xpf.Printing" version="17.2.3.0" />
-        <dependency id="Unofficial.DevExpress.Sparkline.Core" version="17.2.3.0" />
-        <dependency id="Unofficial.DevExpress.Charts.Core" version="17.2.3.0" />
-        <dependency id="Unofficial.DevExpress.Office.Core" version="17.2.3.0" />
-        <dependency id="Unofficial.DevExpress.RichEdit.Core" version="17.2.3.0" />
-        <dependency id="Unofficial.DevExpress.Xpf.Docking" version="17.2.3.0" />
-        <dependency id="Unofficial.DevExpress.Images" version="17.2.3.0" />
+        <dependency id="Unofficial.DevExpress.Diagram.Core" version="17.2.4.0" />
+        <dependency id="Unofficial.DevExpress.Xpf.Grid" version="17.2.4.0" />
+        <dependency id="Unofficial.DevExpress.Xpf.Core" version="17.2.4.0" />
+        <dependency id="Unofficial.DevExpress.XtraCharts" version="17.2.4.0" />
+        <dependency id="Unofficial.DevExpress.Xpf.CodeView" version="17.2.4.0" />
+        <dependency id="Unofficial.DevExpress.Data" version="17.2.4.0" />
+        <dependency id="Unofficial.DevExpress.XtraReports" version="17.2.4.0" />
+        <dependency id="Unofficial.DevExpress.DataAccess" version="17.2.4.0" />
+        <dependency id="Unofficial.DevExpress.Xpf.Diagram" version="17.2.4.0" />
+        <dependency id="Unofficial.DevExpress.Xpf.DataAccess" version="17.2.4.0" />
+        <dependency id="Unofficial.DevExpress.Mvvm" version="17.2.4.0" />
+        <dependency id="Unofficial.DevExpress.Xpf.ExpressionEditor" version="17.2.4.0" />
+        <dependency id="Unofficial.DevExpress.Xpf.PropertyGrid" version="17.2.4.0" />
+        <dependency id="Unofficial.DevExpress.Printing.Core" version="17.2.4.0" />
+        <dependency id="Unofficial.DevExpress.PivotGrid.Core" version="17.2.4.0" />
+        <dependency id="Unofficial.DevExpress.Xpf.LayoutControl" version="17.2.4.0" />
+        <dependency id="Unofficial.DevExpress.Xpf.RichEdit" version="17.2.4.0" />
+        <dependency id="Unofficial.DevExpress.Xpf.PivotGrid" version="17.2.4.0" />
+        <dependency id="Unofficial.DevExpress.CodeParser" version="17.2.4.0" />
+        <dependency id="Unofficial.DevExpress.Xpf.Grid.Core" version="17.2.4.0" />
+        <dependency id="Unofficial.DevExpress.Xpf.Ribbon" version="17.2.4.0" />
+        <dependency id="Unofficial.DevExpress.Xpf.Controls" version="17.2.4.0" />
+        <dependency id="Unofficial.DevExpress.XtraGauges.Core" version="17.2.4.0" />
+        <dependency id="Unofficial.DevExpress.Xpf.Printing" version="17.2.4.0" />
+        <dependency id="Unofficial.DevExpress.Sparkline.Core" version="17.2.4.0" />
+        <dependency id="Unofficial.DevExpress.Charts.Core" version="17.2.4.0" />
+        <dependency id="Unofficial.DevExpress.Office.Core" version="17.2.4.0" />
+        <dependency id="Unofficial.DevExpress.RichEdit.Core" version="17.2.4.0" />
+        <dependency id="Unofficial.DevExpress.Xpf.Docking" version="17.2.4.0" />
+        <dependency id="Unofficial.DevExpress.Images" version="17.2.4.0" />
       </group>
     </dependencies>
   </metadata>
