@@ -110,7 +110,7 @@ Please [report any issues](https://github.com/CaioProiete/DevExpress-NuGet/issue
  * **v16.2.7.0** - 2017-05-25
    - Contains NuGet specs for the DevExpress Components 16.2.7 released on May 24, 2017
 
-   * **v16.2.6.0** - 2017-05-25
+ * **v16.2.6.0** - 2017-05-25
    - Contains NuGet specs for the DevExpress Components 16.2.6 released on March 29, 2017
 
  * **v16.2.5.0** - 2017-03-06
