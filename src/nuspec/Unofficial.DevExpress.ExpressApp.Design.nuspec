@@ -2,34 +2,34 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
   <metadata>
     <id>Unofficial.DevExpress.ExpressApp.Design</id>
-    <version>17.1.7.0</version>
+    <version>17.1.8.0</version>
     <title>Unofficial.DevExpress.ExpressApp.Design</title>
     <authors>Developer Express Inc.</authors>
     <owners>Caio Proiete</owners>
     <licenseUrl>https://www.devexpress.com/Support/EULAs/NetComponents.xml</licenseUrl>
     <projectUrl>https://www.devexpress.com/Subscriptions/DXperience.xml</projectUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
-    <description>DevExpress.ExpressApp.Design.v17.1, Version=17.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</description>
+    <description>DevExpress.ExpressApp.Design.v17.1, Version=17.1.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</description>
     <summary>Unofficial.DevExpress.ExpressApp.Design NuGet package</summary>
-    <copyright>Copyright (C) 2000-2017 Developer Express Inc.</copyright>
+    <copyright>Copyright (C) 2000-2018 Developer Express Inc.</copyright>
     <tags>unofficial devexpress expressapp design</tags>
     <dependencies>
       <group targetFramework=".NETFramework4.0">
-        <dependency id="Unofficial.DevExpress.ExpressApp" version="17.1.7.0" />
-        <dependency id="Unofficial.DevExpress.Utils" version="17.1.7.0" />
-        <dependency id="Unofficial.DevExpress.EasyTest" version="17.1.7.0" />
-        <dependency id="Unofficial.DevExpress.XtraEditors" version="17.1.7.0" />
-        <dependency id="Unofficial.DevExpress.ExpressApp.DesignCore" version="17.1.7.0" />
-        <dependency id="Unofficial.DevExpress.ExpressApp.Win" version="17.1.7.0" />
-        <dependency id="Unofficial.DevExpress.XtraLayout" version="17.1.7.0" />
-        <dependency id="Unofficial.DevExpress.ExpressApp.Security" version="17.1.7.0" />
-        <dependency id="Unofficial.DevExpress.Data" version="17.1.7.0" />
-        <dependency id="Unofficial.DevExpress.Xpo" version="17.1.7.0" />
-        <dependency id="Unofficial.DevExpress.ExpressApp.Xpo" version="17.1.7.0" />
-        <dependency id="Unofficial.DevExpress.ExpressApp.ReportsV2.Web" version="17.1.7.0" />
-        <dependency id="Unofficial.DevExpress.Web" version="17.1.7.0" />
-        <dependency id="Unofficial.DevExpress.ExpressApp.Web" version="17.1.7.0" />
-        <dependency id="Unofficial.DevExpress.Persistent.Base" version="17.1.7.0" />
+        <dependency id="Unofficial.DevExpress.ExpressApp" version="17.1.8.0" />
+        <dependency id="Unofficial.DevExpress.Utils" version="17.1.8.0" />
+        <dependency id="Unofficial.DevExpress.EasyTest" version="17.1.8.0" />
+        <dependency id="Unofficial.DevExpress.XtraEditors" version="17.1.8.0" />
+        <dependency id="Unofficial.DevExpress.ExpressApp.DesignCore" version="17.1.8.0" />
+        <dependency id="Unofficial.DevExpress.ExpressApp.Win" version="17.1.8.0" />
+        <dependency id="Unofficial.DevExpress.XtraLayout" version="17.1.8.0" />
+        <dependency id="Unofficial.DevExpress.ExpressApp.Security" version="17.1.8.0" />
+        <dependency id="Unofficial.DevExpress.Data" version="17.1.8.0" />
+        <dependency id="Unofficial.DevExpress.Xpo" version="17.1.8.0" />
+        <dependency id="Unofficial.DevExpress.ExpressApp.Xpo" version="17.1.8.0" />
+        <dependency id="Unofficial.DevExpress.ExpressApp.ReportsV2.Web" version="17.1.8.0" />
+        <dependency id="Unofficial.DevExpress.Web" version="17.1.8.0" />
+        <dependency id="Unofficial.DevExpress.ExpressApp.Web" version="17.1.8.0" />
+        <dependency id="Unofficial.DevExpress.Persistent.Base" version="17.1.8.0" />
       </group>
     </dependencies>
   </metadata>

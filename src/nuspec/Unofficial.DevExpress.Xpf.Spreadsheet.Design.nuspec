@@ -11,16 +11,16 @@
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <description>DevExpress.Xpf.Spreadsheet.v17.1.Design, Version=17.1.0.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</description>
     <summary>Unofficial.DevExpress.Xpf.Spreadsheet.Design NuGet package</summary>
-    <copyright>Copyright (C) 2000-2017 Developer Express Inc.</copyright>
+    <copyright>Copyright (C) 2000-2018 Developer Express Inc.</copyright>
     <tags>unofficial devexpress xpf spreadsheet design</tags>
     <dependencies>
       <group targetFramework=".NETFramework4.0">
-        <dependency id="Unofficial.DevExpress.Xpf.Core.Design" version="17.1.7.0" />
-        <dependency id="Unofficial.DevExpress.Xpf.Ribbon.Design" version="17.1.7.0" />
-        <dependency id="Unofficial.DevExpress.Xpf.Spreadsheet" version="17.1.7.0" />
-        <dependency id="Unofficial.DevExpress.Xpf.Core" version="17.1.7.0" />
-        <dependency id="Unofficial.DevExpress.Xpf.Ribbon" version="17.1.7.0" />
-        <dependency id="Unofficial.DevExpress.Data" version="17.1.7.0" />
+        <dependency id="Unofficial.DevExpress.Xpf.Core.Design" version="17.1.8.0" />
+        <dependency id="Unofficial.DevExpress.Xpf.Ribbon.Design" version="17.1.8.0" />
+        <dependency id="Unofficial.DevExpress.Xpf.Spreadsheet" version="17.1.8.0" />
+        <dependency id="Unofficial.DevExpress.Xpf.Core" version="17.1.8.0" />
+        <dependency id="Unofficial.DevExpress.Xpf.Ribbon" version="17.1.8.0" />
+        <dependency id="Unofficial.DevExpress.Data" version="17.1.8.0" />
       </group>
     </dependencies>
   </metadata>
