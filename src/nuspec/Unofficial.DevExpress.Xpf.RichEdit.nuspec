@@ -2,35 +2,35 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
   <metadata>
     <id>Unofficial.DevExpress.Xpf.RichEdit</id>
-    <version>17.1.9.0</version>
+    <version>17.2.3.0</version>
     <title>Unofficial.DevExpress.Xpf.RichEdit</title>
     <authors>Developer Express Inc.</authors>
     <owners>Caio Proiete</owners>
     <licenseUrl>https://www.devexpress.com/Support/EULAs/NetComponents.xml</licenseUrl>
     <projectUrl>https://www.devexpress.com/Subscriptions/DXperience.xml</projectUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
-    <description>DevExpress.Xpf.RichEdit.v17.1, Version=17.1.9.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</description>
+    <description>DevExpress.Xpf.RichEdit.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</description>
     <summary>Unofficial.DevExpress.Xpf.RichEdit NuGet package</summary>
     <copyright>Copyright (C) 2000-2018 Developer Express Inc.</copyright>
     <tags>unofficial devexpress xpf richedit</tags>
     <dependencies>
       <group targetFramework=".NETFramework4.0">
-        <dependency id="Unofficial.DevExpress.RichEdit.Core" version="17.1.9.0" />
-        <dependency id="Unofficial.DevExpress.Data" version="17.1.9.0" />
-        <dependency id="Unofficial.DevExpress.Xpf.Core" version="17.1.9.0" />
-        <dependency id="Unofficial.DevExpress.Mvvm" version="17.1.9.0" />
-        <dependency id="Unofficial.DevExpress.Xpf.Ribbon" version="17.1.9.0" />
-        <dependency id="Unofficial.DevExpress.Office.Core" version="17.1.9.0" />
-        <dependency id="Unofficial.DevExpress.Printing.Core" version="17.1.9.0" />
-        <dependency id="Unofficial.DevExpress.Xpf.Printing" version="17.1.9.0" />
-        <dependency id="Unofficial.DevExpress.Pdf.Core" version="17.1.9.0" />
-        <dependency id="Unofficial.DevExpress.Xpf.Docking" version="17.1.9.0" />
-        <dependency id="Unofficial.DevExpress.Xpf.Layout.Core" version="17.1.9.0" />
+        <dependency id="Unofficial.DevExpress.RichEdit.Core" version="17.2.3.0" />
+        <dependency id="Unofficial.DevExpress.Data" version="17.2.3.0" />
+        <dependency id="Unofficial.DevExpress.Xpf.Core" version="17.2.3.0" />
+        <dependency id="Unofficial.DevExpress.Mvvm" version="17.2.3.0" />
+        <dependency id="Unofficial.DevExpress.Office.Core" version="17.2.3.0" />
+        <dependency id="Unofficial.DevExpress.Xpf.Ribbon" version="17.2.3.0" />
+        <dependency id="Unofficial.DevExpress.Printing.Core" version="17.2.3.0" />
+        <dependency id="Unofficial.DevExpress.Xpf.Printing" version="17.2.3.0" />
+        <dependency id="Unofficial.DevExpress.Pdf.Core" version="17.2.3.0" />
+        <dependency id="Unofficial.DevExpress.Xpf.Docking" version="17.2.3.0" />
+        <dependency id="Unofficial.DevExpress.Xpf.Layout.Core" version="17.2.3.0" />
       </group>
     </dependencies>
   </metadata>
   <files>
-    <file src="lib\DevExpress.Xpf.RichEdit.v17.1.dll" target="lib\net40" />
-    <file src="lib\DevExpress.Xpf.RichEdit.v17.1.xml" target="lib\net40" />
+    <file src="lib\DevExpress.Xpf.RichEdit.v17.2.dll" target="lib\net40" />
+    <file src="lib\DevExpress.Xpf.RichEdit.v17.2.xml" target="lib\net40" />
   </files>
 </package>
