@@ -1,30 +1,31 @@
 <?xml version="1.0"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
   <metadata>
-    <id>Unofficial.DevExpress.Web.Bootstrap</id>
+    <id>Unofficial.DevExpress.XtraReports.Web.WebForms</id>
     <version>18.1.5.0</version>
-    <title>Unofficial.DevExpress.Web.Bootstrap</title>
+    <title>Unofficial.DevExpress.XtraReports.Web.WebForms</title>
     <authors>Developer Express Inc.</authors>
     <owners>Caio Proiete</owners>
     <licenseUrl>https://www.devexpress.com/Support/EULAs/NetComponents.xml</licenseUrl>
     <projectUrl>https://www.devexpress.com/Subscriptions/DXperience.xml</projectUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
-    <description>DevExpress.Web.Bootstrap.v18.1, Version=18.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</description>
-    <summary>Unofficial.DevExpress.Web.Bootstrap NuGet package</summary>
+    <description>DevExpress.XtraReports.v18.1.Web.WebForms, Version=18.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</description>
+    <summary>Unofficial.DevExpress.XtraReports.Web.WebForms NuGet package</summary>
     <copyright>Copyright (C) 2000-2018 Developer Express Inc.</copyright>
-    <tags>unofficial devexpress web bootstrap</tags>
+    <tags>unofficial devexpress xtrareports web webforms</tags>
     <dependencies>
       <group targetFramework=".NETFramework4.0">
         <dependency id="Unofficial.DevExpress.Web" version="18.1.5.0" />
+        <dependency id="Unofficial.DevExpress.Printing.Core" version="18.1.5.0" />
+        <dependency id="Unofficial.DevExpress.XtraReports.Web" version="18.1.5.0" />
         <dependency id="Unofficial.DevExpress.Data" version="18.1.5.0" />
-        <dependency id="Unofficial.DevExpress.Web.ASPxScheduler" version="18.1.5.0" />
-        <dependency id="Unofficial.DevExpress.XtraScheduler.Core" version="18.1.5.0" />
+        <dependency id="Unofficial.DevExpress.XtraReports" version="18.1.5.0" />
+        <dependency id="Unofficial.DevExpress.DataAccess" version="18.1.5.0" />
         <dependency id="Unofficial.DevExpress.Web.Resources" version="18.1.5.0" />
       </group>
     </dependencies>
   </metadata>
   <files>
-    <file src="lib\DevExpress.Web.Bootstrap.v18.1.dll" target="lib\net40" />
-    <file src="lib\DevExpress.Web.Bootstrap.v18.1.xml" target="lib\net40" />
+    <file src="lib\DevExpress.XtraReports.v18.1.Web.WebForms.dll" target="lib\net40" />
   </files>
 </package>
