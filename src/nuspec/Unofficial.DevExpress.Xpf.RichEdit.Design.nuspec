@@ -15,12 +15,12 @@
     <tags>unofficial devexpress xpf richedit design</tags>
     <dependencies>
       <group targetFramework=".NETFramework4.0">
-        <dependency id="Unofficial.DevExpress.Xpf.Core.Design" version="18.1.5.0" />
-        <dependency id="Unofficial.DevExpress.Xpf.Core" version="18.1.5.0" />
-        <dependency id="Unofficial.DevExpress.Xpf.RichEdit" version="18.1.5.0" />
-        <dependency id="Unofficial.DevExpress.Xpf.Ribbon.Design" version="18.1.5.0" />
-        <dependency id="Unofficial.DevExpress.Xpf.Docking" version="18.1.5.0" />
-        <dependency id="Unofficial.DevExpress.Xpf.SpellChecker" version="18.1.5.0" />
+        <dependency id="Unofficial.DevExpress.Xpf.Core.Design" version="18.1.6.0" />
+        <dependency id="Unofficial.DevExpress.Xpf.Core" version="18.1.6.0" />
+        <dependency id="Unofficial.DevExpress.Xpf.RichEdit" version="18.1.6.0" />
+        <dependency id="Unofficial.DevExpress.Xpf.Ribbon.Design" version="18.1.6.0" />
+        <dependency id="Unofficial.DevExpress.Xpf.Docking" version="18.1.6.0" />
+        <dependency id="Unofficial.DevExpress.Xpf.SpellChecker" version="18.1.6.0" />
       </group>
     </dependencies>
   </metadata>
