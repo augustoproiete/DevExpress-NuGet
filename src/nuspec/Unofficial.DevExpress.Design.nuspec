@@ -2,29 +2,29 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
   <metadata>
     <id>Unofficial.DevExpress.Design</id>
-    <version>18.1.6.0</version>
+    <version>18.1.7.0</version>
     <title>Unofficial.DevExpress.Design</title>
     <authors>Developer Express Inc.</authors>
     <owners>Caio Proiete</owners>
     <licenseUrl>https://www.devexpress.com/Support/EULAs/NetComponents.xml</licenseUrl>
     <projectUrl>https://www.devexpress.com/Subscriptions/DXperience.xml</projectUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
-    <description>DevExpress.Design.v18.1, Version=18.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</description>
+    <description>DevExpress.Design.v18.1, Version=18.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</description>
     <summary>Unofficial.DevExpress.Design NuGet package</summary>
     <copyright>Copyright (C) 2000-2018 Developer Express Inc.</copyright>
     <tags>unofficial devexpress design</tags>
     <dependencies>
       <group targetFramework=".NETFramework4.0">
-        <dependency id="Unofficial.DevExpress.XtraEditors" version="18.1.6.0" />
-        <dependency id="Unofficial.DevExpress.Data" version="18.1.6.0" />
-        <dependency id="Unofficial.DevExpress.Utils" version="18.1.6.0" />
-        <dependency id="Unofficial.DevExpress.XtraTreeList" version="18.1.6.0" />
-        <dependency id="Unofficial.DevExpress.XtraGrid" version="18.1.6.0" />
-        <dependency id="Unofficial.DevExpress.XtraBars" version="18.1.6.0" />
-        <dependency id="Unofficial.DevExpress.CodeParser" version="18.1.6.0" />
-        <dependency id="Unofficial.DevExpress.XtraLayout" version="18.1.6.0" />
-        <dependency id="Unofficial.DevExpress.PivotGrid.Core" version="18.1.6.0" />
-        <dependency id="Unofficial.DevExpress.Printing.Core" version="18.1.6.0" />
+        <dependency id="Unofficial.DevExpress.XtraEditors" version="18.1.7.0" />
+        <dependency id="Unofficial.DevExpress.Data" version="18.1.7.0" />
+        <dependency id="Unofficial.DevExpress.Utils" version="18.1.7.0" />
+        <dependency id="Unofficial.DevExpress.XtraTreeList" version="18.1.7.0" />
+        <dependency id="Unofficial.DevExpress.XtraGrid" version="18.1.7.0" />
+        <dependency id="Unofficial.DevExpress.XtraBars" version="18.1.7.0" />
+        <dependency id="Unofficial.DevExpress.CodeParser" version="18.1.7.0" />
+        <dependency id="Unofficial.DevExpress.XtraLayout" version="18.1.7.0" />
+        <dependency id="Unofficial.DevExpress.PivotGrid.Core" version="18.1.7.0" />
+        <dependency id="Unofficial.DevExpress.Printing.Core" version="18.1.7.0" />
       </group>
     </dependencies>
   </metadata>
