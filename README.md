@@ -87,6 +87,9 @@ Please [report any issues](https://github.com/CaioProiete/DevExpress-NuGet/issue
 
 ## Release History
 
+ * **v18.2.4.0** - 2018-12-20
+   - Contains NuGet specs for the DevExpress Components 18.2.4 released on December 20, 2018
+
  * **v18.2.3.0** - 2018-11-08
    - Contains NuGet specs for the DevExpress Components 18.2.3 released on November 08, 2018
 

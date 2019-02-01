@@ -2,16 +2,16 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
   <metadata>
     <id>Unofficial.DevExpress.XtraNavBar.Design</id>
-    <version>18.2.3.0</version>
+    <version>18.2.4.0</version>
     <title>Unofficial.DevExpress.XtraNavBar.Design</title>
     <authors>Developer Express Inc.</authors>
     <owners>Caio Proiete</owners>
     <licenseUrl>https://www.devexpress.com/Support/EULAs/NetComponents.xml</licenseUrl>
     <projectUrl>https://www.devexpress.com/Subscriptions/DXperience.xml</projectUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
-    <description>DevExpress.XtraNavBar.v18.2.Design, Version=18.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</description>
+    <description>DevExpress.XtraNavBar.v18.2.Design, Version=18.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</description>
     <summary>Unofficial.DevExpress.XtraNavBar.Design NuGet package</summary>
-    <copyright>Copyright (C) 2000-2018 Developer Express Inc.</copyright>
+    <copyright>Copyright (C) 2000-2019 Developer Express Inc.</copyright>
     <tags>unofficial devexpress xtranavbar design</tags>
   </metadata>
   <files>
