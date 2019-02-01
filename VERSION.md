@@ -1,1 +1,1 @@
-DevExpress .NET Controls & Libraries v18.2.4 (Released on December 20, 2018)
+DevExpress .NET Controls & Libraries v18.2.5 (Released on January 24, 2019)
