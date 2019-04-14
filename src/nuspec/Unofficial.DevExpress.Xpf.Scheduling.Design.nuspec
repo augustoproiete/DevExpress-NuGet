@@ -2,28 +2,28 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
   <metadata>
     <id>Unofficial.DevExpress.Xpf.Scheduling.Design</id>
-    <version>18.2.6.0</version>
+    <version>18.2.7.0</version>
     <title>Unofficial.DevExpress.Xpf.Scheduling.Design</title>
     <authors>Developer Express Inc.</authors>
     <owners>Caio Proiete</owners>
     <licenseUrl>https://www.devexpress.com/Support/EULAs/NetComponents.xml</licenseUrl>
     <projectUrl>https://www.devexpress.com/Subscriptions/DXperience.xml</projectUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
-    <description>DevExpress.Xpf.Scheduling.v18.2.Design, Version=18.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</description>
+    <description>DevExpress.Xpf.Scheduling.v18.2.Design, Version=18.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</description>
     <summary>Unofficial.DevExpress.Xpf.Scheduling.Design NuGet package</summary>
     <copyright>Copyright (C) 2000-2019 Developer Express Inc.</copyright>
     <tags>unofficial devexpress xpf scheduling design</tags>
     <dependencies>
       <group targetFramework=".NETFramework4.0">
-        <dependency id="Unofficial.DevExpress.Design" version="18.2.6.0" />
-        <dependency id="Unofficial.DevExpress.Xpf.Core" version="18.2.6.0" />
-        <dependency id="Unofficial.DevExpress.Xpf.Scheduling" version="18.2.6.0" />
-        <dependency id="Unofficial.DevExpress.Data" version="18.2.6.0" />
-        <dependency id="Unofficial.DevExpress.Xpf.Core.Design" version="18.2.6.0" />
-        <dependency id="Unofficial.DevExpress.Mvvm" version="18.2.6.0" />
-        <dependency id="Unofficial.DevExpress.XtraScheduler.Core" version="18.2.6.0" />
-        <dependency id="Unofficial.DevExpress.Xpf.Ribbon" version="18.2.6.0" />
-        <dependency id="Unofficial.DevExpress.Xpf.Grid.Core" version="18.2.6.0" />
+        <dependency id="Unofficial.DevExpress.Design" version="18.2.7.0" />
+        <dependency id="Unofficial.DevExpress.Xpf.Core" version="18.2.7.0" />
+        <dependency id="Unofficial.DevExpress.Xpf.Scheduling" version="18.2.7.0" />
+        <dependency id="Unofficial.DevExpress.Data" version="18.2.7.0" />
+        <dependency id="Unofficial.DevExpress.Xpf.Core.Design" version="18.2.7.0" />
+        <dependency id="Unofficial.DevExpress.Mvvm" version="18.2.7.0" />
+        <dependency id="Unofficial.DevExpress.XtraScheduler.Core" version="18.2.7.0" />
+        <dependency id="Unofficial.DevExpress.Xpf.Ribbon" version="18.2.7.0" />
+        <dependency id="Unofficial.DevExpress.Xpf.Grid.Core" version="18.2.7.0" />
       </group>
     </dependencies>
   </metadata>
