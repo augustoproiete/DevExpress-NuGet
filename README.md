@@ -87,6 +87,9 @@ Please [report any issues](https://github.com/CaioProiete/DevExpress-NuGet/issue
 
 ## Release History
 
+ * **v18.2.8.0** - 2019-07-04
+   - Contains NuGet specs for the DevExpress Components 18.2.8 released on April 25, 2019
+
  * **v18.2.7.0** - 2019-03-13
    - Contains NuGet specs for the DevExpress Components 18.2.7 released on March 13, 2019
 
@@ -244,7 +247,7 @@ Please [report any issues](https://github.com/CaioProiete/DevExpress-NuGet/issue
    - Contains NuGet specs for the DevExpress Components 14.1.7 released on September 24, 2014
 
 ## License   
-Copyright 2014-2018 Caio Proiete
+Copyright 2014-2019 Caio Proiete
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
@@ -260,4 +263,4 @@ limitations under the License.
 
 ---
 
-The DevExpress components and trademark are Copyright (C) 2000-2018 Developer Express Inc. and their end-user license agreement is available at [https://www.devexpress.com/Support/EULAs/NetComponents.xml](https://www.devexpress.com/Support/EULAs/NetComponents.xml).
+The DevExpress components and trademark are Copyright (C) 2000-2019 Developer Express Inc. and their end-user license agreement is available at [https://www.devexpress.com/Support/EULAs/NetComponents.xml](https://www.devexpress.com/Support/EULAs/NetComponents.xml).
