@@ -2,41 +2,41 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
   <metadata>
     <id>Unofficial.DevExpress.Web.Mvc</id>
-    <version>18.2.8.0</version>
+    <version>18.2.9.0</version>
     <title>Unofficial.DevExpress.Web.Mvc</title>
     <authors>Developer Express Inc.</authors>
     <owners>Caio Proiete</owners>
     <licenseUrl>https://www.devexpress.com/Support/EULAs/NetComponents.xml</licenseUrl>
     <projectUrl>https://www.devexpress.com/Subscriptions/DXperience.xml</projectUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
-    <description>DevExpress.Web.Mvc.v18.2, Version=18.2.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</description>
+    <description>DevExpress.Web.Mvc.v18.2, Version=18.2.9.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</description>
     <summary>Unofficial.DevExpress.Web.Mvc NuGet package</summary>
     <copyright>Copyright (C) 2000-2019 Developer Express Inc.</copyright>
     <tags>unofficial devexpress web mvc</tags>
     <dependencies>
       <group targetFramework=".NETFramework4.0">
-        <dependency id="Unofficial.DevExpress.Web.ASPxHtmlEditor" version="18.2.8.0" />
-        <dependency id="Unofficial.DevExpress.Web" version="18.2.8.0" />
-        <dependency id="Unofficial.DevExpress.XtraCharts" version="18.2.8.0" />
-        <dependency id="Unofficial.DevExpress.Data" version="18.2.8.0" />
-        <dependency id="Unofficial.DevExpress.XtraCharts.Web" version="18.2.8.0" />
-        <dependency id="Unofficial.DevExpress.Printing.Core" version="18.2.8.0" />
-        <dependency id="Unofficial.DevExpress.Charts.Core" version="18.2.8.0" />
-        <dependency id="Unofficial.DevExpress.Web.ASPxSpellChecker" version="18.2.8.0" />
-        <dependency id="Unofficial.DevExpress.Web.ASPxPivotGrid" version="18.2.8.0" />
-        <dependency id="Unofficial.DevExpress.PivotGrid.Core" version="18.2.8.0" />
-        <dependency id="Unofficial.DevExpress.XtraReports.Web" version="18.2.8.0" />
-        <dependency id="Unofficial.DevExpress.XtraReports.Web.WebForms" version="18.2.8.0" />
-        <dependency id="Unofficial.DevExpress.XtraReports" version="18.2.8.0" />
-        <dependency id="Unofficial.DevExpress.DataAccess" version="18.2.8.0" />
-        <dependency id="Unofficial.DevExpress.Web.ASPxRichEdit" version="18.2.8.0" />
-        <dependency id="Unofficial.DevExpress.RichEdit.Core" version="18.2.8.0" />
-        <dependency id="Unofficial.DevExpress.Web.ASPxScheduler" version="18.2.8.0" />
-        <dependency id="Unofficial.DevExpress.XtraScheduler.Core" version="18.2.8.0" />
-        <dependency id="Unofficial.DevExpress.SpellChecker.Core" version="18.2.8.0" />
-        <dependency id="Unofficial.DevExpress.Web.ASPxSpreadsheet" version="18.2.8.0" />
-        <dependency id="Unofficial.DevExpress.Spreadsheet.Core" version="18.2.8.0" />
-        <dependency id="Unofficial.DevExpress.Web.ASPxTreeList" version="18.2.8.0" />
+        <dependency id="Unofficial.DevExpress.Web.ASPxHtmlEditor" version="18.2.9.0" />
+        <dependency id="Unofficial.DevExpress.Web" version="18.2.9.0" />
+        <dependency id="Unofficial.DevExpress.XtraCharts" version="18.2.9.0" />
+        <dependency id="Unofficial.DevExpress.Data" version="18.2.9.0" />
+        <dependency id="Unofficial.DevExpress.XtraCharts.Web" version="18.2.9.0" />
+        <dependency id="Unofficial.DevExpress.Printing.Core" version="18.2.9.0" />
+        <dependency id="Unofficial.DevExpress.Charts.Core" version="18.2.9.0" />
+        <dependency id="Unofficial.DevExpress.Web.ASPxSpellChecker" version="18.2.9.0" />
+        <dependency id="Unofficial.DevExpress.Web.ASPxPivotGrid" version="18.2.9.0" />
+        <dependency id="Unofficial.DevExpress.PivotGrid.Core" version="18.2.9.0" />
+        <dependency id="Unofficial.DevExpress.XtraReports.Web" version="18.2.9.0" />
+        <dependency id="Unofficial.DevExpress.XtraReports.Web.WebForms" version="18.2.9.0" />
+        <dependency id="Unofficial.DevExpress.XtraReports" version="18.2.9.0" />
+        <dependency id="Unofficial.DevExpress.DataAccess" version="18.2.9.0" />
+        <dependency id="Unofficial.DevExpress.Web.ASPxRichEdit" version="18.2.9.0" />
+        <dependency id="Unofficial.DevExpress.RichEdit.Core" version="18.2.9.0" />
+        <dependency id="Unofficial.DevExpress.Web.ASPxScheduler" version="18.2.9.0" />
+        <dependency id="Unofficial.DevExpress.XtraScheduler.Core" version="18.2.9.0" />
+        <dependency id="Unofficial.DevExpress.SpellChecker.Core" version="18.2.9.0" />
+        <dependency id="Unofficial.DevExpress.Web.ASPxSpreadsheet" version="18.2.9.0" />
+        <dependency id="Unofficial.DevExpress.Spreadsheet.Core" version="18.2.9.0" />
+        <dependency id="Unofficial.DevExpress.Web.ASPxTreeList" version="18.2.9.0" />
       </group>
     </dependencies>
   </metadata>
