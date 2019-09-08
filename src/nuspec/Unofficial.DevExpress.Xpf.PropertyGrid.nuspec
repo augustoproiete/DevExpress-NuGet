@@ -14,7 +14,7 @@
     <copyright>Copyright (C) 2000-2019 Developer Express Inc.</copyright>
     <tags>unofficial devexpress xpf propertygrid</tags>
     <dependencies>
-      <group targetFramework=".NETFramework4.0">
+      <group targetFramework=".NETFramework4.5.2">
         <dependency id="Unofficial.DevExpress.Data" version="18.2.4.0" />
         <dependency id="Unofficial.DevExpress.Mvvm" version="18.2.4.0" />
         <dependency id="Unofficial.DevExpress.Xpf.Core" version="18.2.4.0" />
