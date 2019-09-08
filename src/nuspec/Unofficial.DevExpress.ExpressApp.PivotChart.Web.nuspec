@@ -14,7 +14,7 @@
     <copyright>Copyright (C) 2000-2018 Developer Express Inc.</copyright>
     <tags>unofficial devexpress expressapp pivotchart web</tags>
     <dependencies>
-      <group targetFramework=".NETFramework4.0">
+      <group targetFramework=".NETFramework4.5.2">
         <dependency id="Unofficial.DevExpress.ExpressApp.PivotChart" version="18.2.3.0" />
         <dependency id="Unofficial.DevExpress.Web.ASPxPivotGrid" version="18.2.3.0" />
         <dependency id="Unofficial.DevExpress.PivotGrid.Core" version="18.2.3.0" />
