@@ -14,7 +14,7 @@
     <copyright>Copyright (C) 2000-2019 Developer Express Inc.</copyright>
     <tags>unofficial devexpress web aspxspreadsheet</tags>
     <dependencies>
-      <group targetFramework=".NETFramework4.0">
+      <group targetFramework=".NETFramework4.5.2">
         <dependency id="Unofficial.DevExpress.Web" version="18.2.9.0" />
         <dependency id="Unofficial.DevExpress.Spreadsheet.Core" version="18.2.9.0" />
         <dependency id="Unofficial.DevExpress.XtraCharts" version="18.2.9.0" />
