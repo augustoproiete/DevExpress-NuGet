@@ -14,7 +14,7 @@
     <copyright>Copyright (C) 2000-2019 Developer Express Inc.</copyright>
     <tags>unofficial devexpress sharepoint 2016</tags>
     <dependencies>
-      <group targetFramework=".NETFramework4.0">
+      <group targetFramework=".NETFramework4.5.2">
         <dependency id="Unofficial.DevExpress.Web" version="18.2.8.0" />
         <dependency id="Unofficial.DevExpress.Web.ASPxHtmlEditor" version="18.2.8.0" />
         <dependency id="Unofficial.DevExpress.Web.ASPxSpellChecker" version="18.2.8.0" />

@@ -14,7 +14,7 @@
     <copyright>Copyright (C) 2000-2019 Developer Express Inc.</copyright>
     <tags>unofficial devexpress xpf pivotgrid design</tags>
     <dependencies>
-      <group targetFramework=".NETFramework4.0">
+      <group targetFramework=".NETFramework4.5.2">
         <dependency id="Unofficial.DevExpress.PivotGrid.Core" version="18.2.8.0" />
         <dependency id="Unofficial.DevExpress.Xpf.Core.Design" version="18.2.8.0" />
         <dependency id="Unofficial.DevExpress.Xpf.PivotGrid" version="18.2.8.0" />

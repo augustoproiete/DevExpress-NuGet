@@ -14,7 +14,7 @@
     <copyright>Copyright (C) 2000-2019 Developer Express Inc.</copyright>
     <tags>unofficial devexpress xtrapdfviewer design</tags>
     <dependencies>
-      <group targetFramework=".NETFramework4.0">
+      <group targetFramework=".NETFramework4.5.2">
         <dependency id="Unofficial.DevExpress.XtraBars.Design" version="18.2.8.0" />
         <dependency id="Unofficial.DevExpress.XtraPdfViewer" version="18.2.8.0" />
         <dependency id="Unofficial.DevExpress.XtraBars" version="18.2.8.0" />
