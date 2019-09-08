@@ -14,7 +14,7 @@
     <copyright>Copyright (C) 2000-2019 Developer Express Inc.</copyright>
     <tags>unofficial devexpress expressapp workflow</tags>
     <dependencies>
-      <group targetFramework=".NETFramework4.0">
+      <group targetFramework=".NETFramework4.5.2">
         <dependency id="Unofficial.DevExpress.ExpressApp" version="19.1.4.0" />
         <dependency id="Unofficial.DevExpress.Data" version="19.1.4.0" />
         <dependency id="Unofficial.DevExpress.Persistent.Base" version="19.1.4.0" />
