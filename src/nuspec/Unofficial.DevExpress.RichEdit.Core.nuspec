@@ -14,7 +14,7 @@
     <copyright>Copyright (C) 2000-2019 Developer Express Inc.</copyright>
     <tags>unofficial devexpress richedit core</tags>
     <dependencies>
-      <group targetFramework=".NETFramework4.0">
+      <group targetFramework=".NETFramework4.5.2">
         <dependency id="Unofficial.DevExpress.Office.Core" version="18.2.5.0" />
         <dependency id="Unofficial.DevExpress.Data" version="18.2.5.0" />
         <dependency id="Unofficial.DevExpress.Printing.Core" version="18.2.5.0" />

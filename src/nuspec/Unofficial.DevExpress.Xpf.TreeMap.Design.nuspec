@@ -14,7 +14,7 @@
     <copyright>Copyright (C) 2000-2019 Developer Express Inc.</copyright>
     <tags>unofficial devexpress xpf treemap design</tags>
     <dependencies>
-      <group targetFramework=".NETFramework4.0">
+      <group targetFramework=".NETFramework4.5.2">
         <dependency id="Unofficial.DevExpress.Xpf.Core.Design" version="18.2.5.0" />
         <dependency id="Unofficial.DevExpress.Xpf.TreeMap" version="18.2.5.0" />
         <dependency id="Unofficial.DevExpress.Xpf.Core" version="18.2.5.0" />
