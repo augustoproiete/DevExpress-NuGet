@@ -14,7 +14,7 @@
     <copyright>Copyright (C) 2000-2019 Developer Express Inc.</copyright>
     <tags>unofficial devexpress utils ui</tags>
     <dependencies>
-      <group targetFramework=".NETFramework4.0">
+      <group targetFramework=".NETFramework4.5.2">
         <dependency id="Unofficial.DevExpress.XtraTreeList" version="18.2.6.0" />
         <dependency id="Unofficial.DevExpress.XtraPrinting" version="18.2.6.0" />
         <dependency id="Unofficial.DevExpress.Utils" version="18.2.6.0" />
