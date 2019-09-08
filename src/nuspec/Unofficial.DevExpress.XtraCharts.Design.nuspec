@@ -2,34 +2,34 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
   <metadata>
     <id>Unofficial.DevExpress.XtraCharts.Design</id>
-    <version>19.1.4.0</version>
+    <version>19.1.5.0</version>
     <title>Unofficial.DevExpress.XtraCharts.Design</title>
     <authors>Developer Express Inc.</authors>
     <owners>Caio Proiete</owners>
     <licenseUrl>https://www.devexpress.com/Support/EULAs/NetComponents.xml</licenseUrl>
     <projectUrl>https://www.devexpress.com/Subscriptions/DXperience.xml</projectUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
-    <description>DevExpress.XtraCharts.v19.1.Design, Version=19.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</description>
+    <description>DevExpress.XtraCharts.v19.1.Design, Version=19.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</description>
     <summary>Unofficial.DevExpress.XtraCharts.Design NuGet package</summary>
     <copyright>Copyright (C) 2000-2019 Developer Express Inc.</copyright>
     <tags>unofficial devexpress xtracharts design</tags>
     <dependencies>
       <group targetFramework=".NETFramework4.5.2">
-        <dependency id="Unofficial.DevExpress.Design" version="19.1.4.0" />
-        <dependency id="Unofficial.DevExpress.XtraCharts.Extensions" version="19.1.4.0" />
-        <dependency id="Unofficial.DevExpress.XtraCharts.Wizard" version="19.1.4.0" />
-        <dependency id="Unofficial.DevExpress.XtraCharts" version="19.1.4.0" />
-        <dependency id="Unofficial.DevExpress.XtraCharts.UI" version="19.1.4.0" />
-        <dependency id="Unofficial.DevExpress.XtraBars" version="19.1.4.0" />
-        <dependency id="Unofficial.DevExpress.XtraBars.Design" version="19.1.4.0" />
-        <dependency id="Unofficial.DevExpress.Utils" version="19.1.4.0" />
-        <dependency id="Unofficial.DevExpress.Data" version="19.1.4.0" />
-        <dependency id="Unofficial.DevExpress.XtraEditors" version="19.1.4.0" />
+        <dependency id="Unofficial.DevExpress.Design" version="19.1.5.0" />
+        <dependency id="Unofficial.DevExpress.XtraCharts.Extensions" version="19.1.5.0" />
+        <dependency id="Unofficial.DevExpress.XtraCharts.Wizard" version="19.1.5.0" />
+        <dependency id="Unofficial.DevExpress.XtraCharts" version="19.1.5.0" />
+        <dependency id="Unofficial.DevExpress.XtraCharts.UI" version="19.1.5.0" />
+        <dependency id="Unofficial.DevExpress.XtraBars" version="19.1.5.0" />
+        <dependency id="Unofficial.DevExpress.XtraBars.Design" version="19.1.5.0" />
+        <dependency id="Unofficial.DevExpress.Utils" version="19.1.5.0" />
+        <dependency id="Unofficial.DevExpress.Data" version="19.1.5.0" />
+        <dependency id="Unofficial.DevExpress.XtraEditors" version="19.1.5.0" />
       </group>
     </dependencies>
   </metadata>
   <files>
-    <file src="lib\Design\DevExpress.XtraCharts.v19.1.Design.dll" target="lib\net40" />
+    <file src="lib\Design\DevExpress.XtraCharts.v19.1.Design.dll" target="lib\net452" />
     <file src="tools\install.ps1" target="tools" />
   </files>
 </package>

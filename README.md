@@ -35,13 +35,13 @@ For example, if the assembly `DevExpress.Xpf.Ribbon.v19.1.dll` directly referenc
     <package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
       <metadata>
         <id>Unofficial.DevExpress.Xpf.Ribbon</id>
-        <version>19.1.4.0</version>
+        <version>19.1.5.0</version>
         <!-- ... (omitted for brevity) -->
         <dependencies>
           <group targetFramework=".NETFramework4.0">
-            <dependency id="Unofficial.DevExpress.Xpf.Core" version="19.1.4.0" />
-            <dependency id="Unofficial.DevExpress.Data" version="19.1.4.0" />
-            <dependency id="Unofficial.DevExpress.Mvvm" version="19.1.4.0" />
+            <dependency id="Unofficial.DevExpress.Xpf.Core" version="19.1.5.0" />
+            <dependency id="Unofficial.DevExpress.Data" version="19.1.5.0" />
+            <dependency id="Unofficial.DevExpress.Mvvm" version="19.1.5.0" />
           </group>
        </dependencies>
       </metadata>
