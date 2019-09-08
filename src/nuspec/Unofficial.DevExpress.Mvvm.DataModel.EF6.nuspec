@@ -2,26 +2,26 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
   <metadata>
     <id>Unofficial.DevExpress.Mvvm.DataModel.EF6</id>
-    <version>18.2.9.0</version>
+    <version>18.2.10.0</version>
     <title>Unofficial.DevExpress.Mvvm.DataModel.EF6</title>
     <authors>Developer Express Inc.</authors>
     <owners>Caio Proiete</owners>
     <licenseUrl>https://www.devexpress.com/Support/EULAs/NetComponents.xml</licenseUrl>
     <projectUrl>https://www.devexpress.com/Subscriptions/DXperience.xml</projectUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
-    <description>DevExpress.Mvvm.v18.2.DataModel.EF6, Version=18.2.9.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</description>
+    <description>DevExpress.Mvvm.v18.2.DataModel.EF6, Version=18.2.10.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</description>
     <summary>Unofficial.DevExpress.Mvvm.DataModel.EF6 NuGet package</summary>
     <copyright>Copyright (C) 2000-2019 Developer Express Inc.</copyright>
     <tags>unofficial devexpress mvvm datamodel ef6</tags>
     <dependencies>
       <group targetFramework=".NETFramework4.5.2">
-        <dependency id="Unofficial.DevExpress.Mvvm.DataModel" version="18.2.9.0" />
-        <dependency id="Unofficial.DevExpress.Data" version="18.2.9.0" />
+        <dependency id="Unofficial.DevExpress.Mvvm.DataModel" version="18.2.10.0" />
+        <dependency id="Unofficial.DevExpress.Data" version="18.2.10.0" />
       </group>
     </dependencies>
   </metadata>
   <files>
-    <file src="lib\DevExpress.Mvvm.v18.2.DataModel.EF6.dll" target="lib\net40" />
-    <file src="lib\DevExpress.Mvvm.v18.2.DataModel.EF6.xml" target="lib\net40" />
+    <file src="lib\DevExpress.Mvvm.v18.2.DataModel.EF6.dll" target="lib\net452" />
+    <file src="lib\DevExpress.Mvvm.v18.2.DataModel.EF6.xml" target="lib\net452" />
   </files>
 </package>

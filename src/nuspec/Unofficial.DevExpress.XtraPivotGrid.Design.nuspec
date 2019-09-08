@@ -2,33 +2,33 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
   <metadata>
     <id>Unofficial.DevExpress.XtraPivotGrid.Design</id>
-    <version>18.2.9.0</version>
+    <version>18.2.10.0</version>
     <title>Unofficial.DevExpress.XtraPivotGrid.Design</title>
     <authors>Developer Express Inc.</authors>
     <owners>Caio Proiete</owners>
     <licenseUrl>https://www.devexpress.com/Support/EULAs/NetComponents.xml</licenseUrl>
     <projectUrl>https://www.devexpress.com/Subscriptions/DXperience.xml</projectUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
-    <description>DevExpress.XtraPivotGrid.v18.2.Design, Version=18.2.9.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</description>
+    <description>DevExpress.XtraPivotGrid.v18.2.Design, Version=18.2.10.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</description>
     <summary>Unofficial.DevExpress.XtraPivotGrid.Design NuGet package</summary>
     <copyright>Copyright (C) 2000-2019 Developer Express Inc.</copyright>
     <tags>unofficial devexpress xtrapivotgrid design</tags>
     <dependencies>
       <group targetFramework=".NETFramework4.5.2">
-        <dependency id="Unofficial.DevExpress.XtraEditors.Design" version="18.2.9.0" />
-        <dependency id="Unofficial.DevExpress.Utils" version="18.2.9.0" />
-        <dependency id="Unofficial.DevExpress.XtraEditors" version="18.2.9.0" />
-        <dependency id="Unofficial.DevExpress.XtraPivotGrid" version="18.2.9.0" />
-        <dependency id="Unofficial.DevExpress.XtraBars" version="18.2.9.0" />
-        <dependency id="Unofficial.DevExpress.Utils.UI" version="18.2.9.0" />
-        <dependency id="Unofficial.DevExpress.PivotGrid.Core" version="18.2.9.0" />
-        <dependency id="Unofficial.DevExpress.Design" version="18.2.9.0" />
-        <dependency id="Unofficial.DevExpress.Data" version="18.2.9.0" />
+        <dependency id="Unofficial.DevExpress.XtraEditors.Design" version="18.2.10.0" />
+        <dependency id="Unofficial.DevExpress.Utils" version="18.2.10.0" />
+        <dependency id="Unofficial.DevExpress.XtraEditors" version="18.2.10.0" />
+        <dependency id="Unofficial.DevExpress.XtraPivotGrid" version="18.2.10.0" />
+        <dependency id="Unofficial.DevExpress.XtraBars" version="18.2.10.0" />
+        <dependency id="Unofficial.DevExpress.Utils.UI" version="18.2.10.0" />
+        <dependency id="Unofficial.DevExpress.PivotGrid.Core" version="18.2.10.0" />
+        <dependency id="Unofficial.DevExpress.Design" version="18.2.10.0" />
+        <dependency id="Unofficial.DevExpress.Data" version="18.2.10.0" />
       </group>
     </dependencies>
   </metadata>
   <files>
-    <file src="lib\Design\DevExpress.XtraPivotGrid.v18.2.Design.dll" target="lib\net40" />
+    <file src="lib\Design\DevExpress.XtraPivotGrid.v18.2.Design.dll" target="lib\net452" />
     <file src="tools\install.ps1" target="tools" />
   </files>
 </package>
