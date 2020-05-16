@@ -82,15 +82,15 @@ To generate all NuGet packages, just run the powershell file `src\nuget-pack.ps1
 
 - Instead of generating a NuGet package for every assembly, the script could analyze the dependency chain and build clusters when possible - I'm not sure if it is worth the effort, though. I'm interested in hearing your opinion.
 
-Please [report any issues](https://github.com/caioproiete/DevExpress-NuGet/issues) you find and I'll try to fix as soon I can, and **remember you can always send a pull-request** ;).
+Please [report any issues](https://github.com/augustoproiete/DevExpress-NuGet/issues) you find and I'll try to fix as soon I can, and **remember you can always send a pull-request** ;).
 
 
 ## Release History
 
-Click on the [Releases](https://github.com/caioproiete/DevExpress-NuGet/releases) tab on GitHub.
+Click on the [Releases](https://github.com/augustoproiete/DevExpress-NuGet/releases) tab on GitHub.
 
 ## License   
-Copyright 2014-2019 Caio Proiete
+Copyright 2014-2020 C. Augusto Proiete
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
@@ -106,4 +106,4 @@ limitations under the License.
 
 ---
 
-The DevExpress components and trademark are Copyright (C) 2000-2019 Developer Express Inc. and their end-user license agreement is available at [https://www.devexpress.com/Support/EULAs/NetComponents.xml](https://www.devexpress.com/Support/EULAs/NetComponents.xml).
+The DevExpress components and trademark are Copyright (C) 2000-2020 Developer Express Inc. and their end-user license agreement is available at [https://www.devexpress.com/Support/EULAs/NetComponents.xml](https://www.devexpress.com/Support/EULAs/NetComponents.xml).
