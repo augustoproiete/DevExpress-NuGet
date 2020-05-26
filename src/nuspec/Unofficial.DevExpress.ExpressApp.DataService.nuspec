@@ -1,25 +1,25 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
   <metadata>
     <id>Unofficial.DevExpress.ExpressApp.DataService</id>
-    <version>19.1.6.0</version>
+    <version>19.1.6.1</version>
     <title>Unofficial.DevExpress.ExpressApp.DataService</title>
     <authors>Developer Express Inc.</authors>
-    <owners>C. Augusto Proiete</owners>
+    <owners>augustoproiete</owners>
     <licenseUrl>https://www.devexpress.com/Support/EULAs/NetComponents.xml</licenseUrl>
     <projectUrl>https://www.devexpress.com/Subscriptions/DXperience.xml</projectUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <description>DevExpress.ExpressApp.DataService.v19.1, Version=19.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</description>
     <summary>Unofficial.DevExpress.ExpressApp.DataService NuGet package</summary>
-    <copyright>Copyright (C) 2000-2019 Developer Express Inc.</copyright>
+    <copyright>Copyright (C) 2000-2020 Developer Express Inc.</copyright>
     <tags>unofficial devexpress expressapp dataservice</tags>
     <dependencies>
       <group targetFramework=".NETFramework4.5.2">
-        <dependency id="Unofficial.DevExpress.ExpressApp" version="19.1.6.0" />
-        <dependency id="Unofficial.DevExpress.Xpo.Extensions" version="19.1.6.0" />
-        <dependency id="Unofficial.DevExpress.Xpo" version="19.1.6.0" />
-        <dependency id="Unofficial.DevExpress.Persistent.Base" version="19.1.6.0" />
-        <dependency id="Unofficial.DevExpress.ExpressApp.Xpo" version="19.1.6.0" />
+        <dependency id="Unofficial.DevExpress.ExpressApp" version="19.1.6.1" />
+        <dependency id="Unofficial.DevExpress.Xpo.Extensions" version="19.1.6.1" />
+        <dependency id="Unofficial.DevExpress.Xpo" version="19.1.6.1" />
+        <dependency id="Unofficial.DevExpress.Persistent.Base" version="19.1.6.1" />
+        <dependency id="Unofficial.DevExpress.ExpressApp.Xpo" version="19.1.6.1" />
       </group>
     </dependencies>
   </metadata>
