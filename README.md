@@ -1,4 +1,4 @@
-# DevExpress-NuGet
+# DevExpress-NuGet [![Stack Overflow](https://img.shields.io/badge/stack%20overflow-devexpress-orange.svg)](http://stackoverflow.com/questions/tagged/devexpress)
 
 NuGet Packages for the DevExpress .NET Components - [http://www.devexpress.com](http://www.devexpress.com).
 
