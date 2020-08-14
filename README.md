@@ -1,29 +1,32 @@
-# DevExpress-NuGet [![Stack Overflow](https://img.shields.io/badge/stack%20overflow-devexpress-orange.svg)](http://stackoverflow.com/questions/tagged/devexpress)
+| README.md |
+|:---|
+
+<h1 align="center">DevExpress-NuGet</h1>
+<div align="center">
 
 NuGet Packages for the DevExpress .NET Components - [http://www.devexpress.com](http://www.devexpress.com).
 
+[![Stack Overflow](https://img.shields.io/badge/stack%20overflow-devexpress-orange.svg)](http://stackoverflow.com/questions/tagged/devexpress)
+
+</div>
 
 ## Introduction
 
-> Here are unofficial NuGet specification files (nuspec) that I've created in order to generate NuGet packages for the .NET components developed by [DevExpress](http://www.devexpress.com).
+Here are unofficial NuGet specification files (nuspec) that I've created in order to generate NuGet packages for the .NET components developed by [DevExpress](http://www.devexpress.com).
 
-> [If DevExpress ever authorizes me to publicly distribute their assemblies in NuGet packages](https://www.devexpress.com/support/center/Question/Details/S139898), I'll be happy to publish them on the [NuGet.org](http://nuget.org) feed. In the meantime, if you are a DevExpress licensed user, feel free to use these nuspec files to generate the packages and host on your own private/company feed.
+[If DevExpress ever authorizes me to publicly distribute their assemblies in NuGet packages](https://www.devexpress.com/support/center/Question/Details/S139898), I'll be happy to publish them on the [NuGet.org](http://nuget.org) feed. In the meantime, if you are a DevExpress licensed user, feel free to use these nuspec files to generate the packages and host on your own private/company feed.
 
-
-### Call To Action
+### Call To Action :mega:
 If you too think that [DevExpress](http://www.devexpress.com) should provide us with official NuGet packages for their .NET components, send an e-mail to **<management@devexpress.com>**, or **[post a comment on their forum](https://www.devexpress.com/support/center/Question/Details/S139898)**.  
-
 
 ### Disclaimer from DevExpress
 *Please note that according to DevExpress [EULA](https://www.devexpress.com/Support/EULAs/NetComponents.xml), every person working with DevExpress components should have a separate license. To properly register our components on your machine, use the DevExpress installer as described in the [How to activate my DevExpress license article](https://www.devexpress.com/Support/Center/Question/Details/KA18604). Working with DevExpress components using libraries got from NuGet without proper registration may result in licensing violation*.
-
 
 ## Packaging Strategy
 
 I've created one NuGet package specification for every single assembly included in the DevExpress .NET controls, which in turn can be used to generate a NuGet package.
 
 For example, the file `nuspec\Unofficial.DevExpress.Xpf.Ribbon.nuspec` is the corresponding NuGet specification for the assembly `DevExpress.Xpf.Ribbon.v19.1.dll`.
-
 
 ### Dependencies between NuGet packages
 
@@ -51,7 +54,6 @@ For example, if the assembly `DevExpress.Xpf.Ribbon.v19.1.dll` directly referenc
       </files>
     </package>
 
-
 ## Folder Structure
 
 - **src**
@@ -64,13 +66,11 @@ For example, if the assembly `DevExpress.Xpf.Ribbon.v19.1.dll` directly referenc
   - **tools**
       - This contains a simple Powershell script used by the NuGet packages related to assemblies that are only needed for design-time (i.e. assemblies in `lib\Design`). This script runs during the installation of these packages only to set the `CopyLocal` attribute of these assemblies to `false`, given that they are not meant to be deployed with the application. 
 
-
-## How to generate the NuGet packages
+## How to generate the NuGet packages :package:
 
 To generate all NuGet packages, just run the powershell file `src\nuget-pack.ps1`, or if you prefer to manually generate specific packages, just use the `nuget.exe` command line utility. For example:
 
     nuget.exe pack ".\src\nuspec\Unofficial.DevExpress.Data.nuspec" -BasePath ".\src" -OutputDirectory ".\src\nupkg"
-
 
 ## Known issues / Things to do
 
@@ -83,7 +83,6 @@ To generate all NuGet packages, just run the powershell file `src\nuget-pack.ps1
 - Instead of generating a NuGet package for every assembly, the script could analyze the dependency chain and build clusters when possible - I'm not sure if it is worth the effort, though. I'm interested in hearing your opinion.
 
 Please [report any issues](https://github.com/augustoproiete/DevExpress-NuGet/issues) you find and I'll try to fix as soon I can, and **remember you can always send a pull-request** ;).
-
 
 ## Release History
 
